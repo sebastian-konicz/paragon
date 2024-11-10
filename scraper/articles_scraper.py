@@ -16,6 +16,18 @@ def articles_scraper(product_type):
     print(f'--------------------{title}----------------------------')
     print(f'-------------------------------------------------------')
 
+    # Ścieżka do folderu
+    folder_path = cwd + f'/data/raw/{product_type}'
+
+    # Sprawdzenie, czy folder istnieje
+    if not os.path.exists(folder_path):
+        # Tworzenie folderu, jeśli nie istnieje
+        os.mkdir(folder_path)
+        print(f'Folder "{folder_path}" został utworzony.')
+    else:
+        print(f'Folder "{folder_path}" już istnieje.')
+
+
     # variables
     pages_text = '/?page='
 
@@ -116,10 +128,10 @@ def articles_scraper(product_type):
             # Wyświetlamy DataFrame
             print(df)
 
-            df.to_csv(cwd + f'/data/raw/biedronka_items_{product_type}_{page_number}.csv', index=False)
+            df.to_csv(f'{folder_path}/biedronka_items_{product_type}_{page_number}.csv', index=False)
         else:
             print("Błąd pobierania strony:", response.status_code)
 
 if __name__ == "__main__":
-    product_type = 'owoce'
+    product_type = 'piekarnia'
     articles_scraper(product_type)

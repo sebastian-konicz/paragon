@@ -1,0 +1,33 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,protein,salt,fiber
+0000001774,"Żywiec Zdrój Niegazowany 1,75 l",napoje,N,,,,,,,,,
+0000016984,"Coca-Cola Zero 1,75 l",napoje,Y,w porcji 100 ml,0.2 kcal,0 g,0 g,0 g,0 g,0 g,0.02 g,
+0000000114,Oaza Woda źródlana niegazowana 5 l,napoje,N,,,,,,,,,
+0000001775,"Żywiec Zdrój Mocny Gaz 1,75 l",napoje,N,,,,,,,,,
+0000016983,"Coca-Cola Napój gazowany 1,75 l",napoje,Y,w porcji 100 ml,42 kcal,0 g,0 g,10.6 g,10.6 g,0 g,0 g,
+0000017271,Tymbark Mus Mango-jabłko-banan 120 g,napoje,Y,w porcji 100 g,61 kcal,0.5 g,0.1 g,13 g,13 g,0.5 g,0.01 g,1.3 g
+0000018671,Oshee Zero Lemon 750 ml,napoje,Y,w porcji 100 g,2 kcal,0 g,0 g,0 g,0 g,0 g,0.11 g,
+0000018670,Oshee Zero Drink Multifruit 750 ml,napoje,Y,w porcji 100 ml,1 kcal,0 g,0 g,0 g,0 g,0 g,0.11 g,
+0000001090,"Cisowianka  Naturalna woda mineralna niegazowana 1,5 l",napoje,N,,,,,,,,,
+0000008357,Hortex Sok 100 % jabłko 1 l,napoje,Y,w porcji 100 ml,44 kcal,0 g,0 g,10.7 g,10.3 g,0.2 g,0 g,
+0000005490,Vital Fresh Smoothie mango jabłko banan marakuja 750ml,napoje,Y,w porcji 100 ml,54 kcal,0 g,0 g,12.4 g,12.4 g,0.6 g,0.01 g,1 g
+0000016968,Kubuś Mus Mango Jabłko 200 g,napoje,Y,w porcji 100 g,53 kcal,0.5 g,0.1 g,11 g,11 g,0.5 g,0.01 g,1.9 g
+0000007413,Tymbark Sok 100% jabłko 1 l,napoje,Y,w porcji 100 ml,41 kcal,0 g,0 g,10 g,10 g,0 g,0 g,
+0000009458,"Nestea Black Tea Napój herbaciany o smaku brzoskwiniowym 1,5 l",napoje,Y,w porcji 100 ml,17 kcal,0.5 g,0.1 g,4.1 g,4.1 g,0.5 g,0.03 g,
+0000005813,Vital Fresh Smoothie kokos ananas banan pomarańcza 750ml,napoje,Y,w porcji 100 ml,71 kcal,1.1 g,0.9 g,14 g,12 g,0.7 g,0.01 g,1 g
+0000008145,Miami Marchew banan jabłko 1 l,napoje,Y,w porcji 100 ml,37 kcal,0.5 g,0.1 g,8.9 g,7.9 g,0.5 g,0.02 g,0.7 g
+0000007824,"Muszynianka Naturalna woda mineralna niskonasycona CO2 1,5 l",napoje,N,,,,,,,,,
+0000010571,"Hellena Oranżada biała 1,25 l",napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,4.4 g,4.3 g,0 g,0.03 g,
+0000003643,"Muszyna Skarb Życia Naturalna woda mineralna wysokozmineralizowana lekko gazowana 1,5 l",napoje,N,,,,,,,,,
+0000000341,"Polaris Naturalna woda mineralna niegazowana 1,5l",napoje,N,,,,,,,,,
+0000012058,"Vital Fresh Smoothie Jabłko, wiśnia, ananas 250 ml",napoje,Y,w porcji 100 ml,47 kcal,0 g,0 g,11 g,10 g,0.5 g,0 g,0.9 g
+0000006432,"Nałęczowianka Naturalna woda mineralna niegazowana 1,5 l",napoje,N,,,,,,,,,
+0000017293,Kubuś Lemoniada Jabłko Cytryna Limonka 400 ml,napoje,Y,w porcji 100 ml,25 kcal,0 g,0 g,6 g,6 g,0 g,0 g,
+0000019128,"7UP Zero cukru Napój gazowany o smaku cytrynowo-limonkowym 1,75 l",napoje,Y,w porcji 100 ml,1 kcal,0 g,0 g,0 g,0 g,0 g,0.04 g,
+0000015634,"Herbapol Syrop malinowy z witaminami C,D, B6 i cynkiem 500 ml",napoje,Y,w porcji 100 ml,316 kcal,0 g,0 g,79 g,77 g,0 g,0.02 g,
+0000002986,Hortex Jabłko wiśnia Napój karton 1 l,napoje,Y,w porcji 100 ml,20 kcal,0 g,0 g,5.1 g,4.9 g,0 g,0 g,
+0000010657,Riviva Sok 100% pomidor 300 ml,napoje,Y,w porcji 100 ml,17 kcal,0.5 g,0.1 g,2.4 g,2.4 g,0.9 g,0.5 g,1.2 g
+0000002523,"Polaris Naturalna woda mineralna lekko gazowana 1,5 l",napoje,N,,,,,,,,,
+0000015131,Tymbark Mus Marakuja-jabłko-banan-cytryna 200 g,napoje,Y,w porcji 100 g,57 kcal,0.5 g,0.1 g,12 g,11 g,0.5 g,0.01 g,1.5 g
+0000000340,"Polaris Naturalna woda mineralna gazowana 1,5 l",napoje,N,,,,,,,,,
+0000001731,"Sprite Napój gazowany o smaku cytrynowo-limonkowym 1,75 l",napoje,Y,w porcji 100 ml,37 kcal,0 g,0 g,9 g,9 g,0 g,0.03 g,
+0000008056,"Cola Original Zero 1,5 l",napoje,Y,w porcji 100 ml,1 kcal,0 g,0 g,0 g,0 g,0 g,0 g,

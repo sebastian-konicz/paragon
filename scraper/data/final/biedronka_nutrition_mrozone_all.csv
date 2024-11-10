@@ -1,0 +1,115 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,protein,salt,fiber
+0000001523,Mroźna Kraina Polskie truskawki bez szypułek 450 g,mrozone,Y,w porcji 100 g,32 kcal,0.4 g,0.1 g,5.4 g,5.4 g,0.7 g,0 g,
+0000000346,Mroźna Kraina Warzywa na patelnię z ziemniakami 750g,mrozone,Y,w porcji 100 g,56 kcal,0.6 g,0.1 g,8.9 g,2.7 g,2.3 g,0.03 g,3 g
+0000001899,Mroźna Kraina Warzywa na patelnię po grecku 450 g,mrozone,Y,w porcji 100 g,50 kcal,0.6 g,0.1 g,8.6 g,2.4 g,1.5 g,0.35 g,2 g
+0000001896,Mroźna Kraina Warzywa na patelnię po włosku 450 g,mrozone,Y,w porcji 100 g,34 kcal,0.5 g,0.1 g,4.4 g,4 g,1.8 g,0.02 g,2.3 g
+0000001692,Mroźna Kraina Szpinak rozdrobniony 450 g,mrozone,Y,w porcji 100 g,37 kcal,1.7 g,0.2 g,1.1 g,1.1 g,3.1 g,0.1 g,2.3 g
+0000003180,Mroźna Kraina Brokuł różyczki 450 g,mrozone,Y,w porcji 100 g,21 kcal,0.3 g,0.1 g,1.9 g,0.8 g,2.1 g,0.01 g,1.1 g
+0000001252,Mroźna Kraina Fasola szparagowa cięta 450g,mrozone,Y,w porcji 100 g,37 kcal,0.5 g,0 g,4.3 g,1.2 g,2.4 g,0.03 g,4.2 g
+0000007942,Mroźna Kraina Włoszczyzna w słupkach 450 g,mrozone,Y,w porcji 100 g,32 kcal,0.3 g,0.1 g,4.4 g,2.1 g,0.8 g,0.7 g,3.9 g
+0000008655,Marinero Krewetki białe blanszowane vannamei 450 g,mrozone,Y,w porcji 100 g,72 kcal,0.9 g,0.3 g,0 g,0 g,16 g,0.5 g,0 g
+0000013404,Mroźna Kraina Borówka 300 g,mrozone,Y,w porcji 100 g,59 kcal,0.2 g,0 g,11.8 g,10.2 g,0.8 g,0 g,3.4 g
+0000005707,Marinero Krewetki białe surowe vannamei 450g,mrozone,Y,w porcji 100 g,70 kcal,0.5 g,0.2 g,0.6 g,0.6 g,15.4 g,1 g,0.7 g
+0000002225,"Marletto Mini Lody Almond, White, Milk, Classic 400ml (4 x 2 x 50ml)",mrozone,Y,w porcji 100 g,362 kcal,25 g,17 g,30 g,27 g,3.8 g,0.1 g,2.3 g
+0000009770,Mroźna Kraina Maliny 300 g,mrozone,Y,w porcji 100 g,42 kcal,0.2 g,0 g,7.2 g,4 g,1.1 g,0 g,3.6 g
+0000011483,Mroźna Kraina Szpinak w liściach porcjowany 450 g,mrozone,Y,w porcji 100 g,27 kcal,0.3 g,0.1 g,1.1 g,0.7 g,3.2 g,0.06 g,3.5 g
+0000007708,Mroźna Kraina Fasolka szparagowa żółta i zielona cała 450 g,mrozone,Y,w porcji 100 g,32 kcal,0.5 g,0.1 g,3.1 g,2.3 g,1.9 g,0 g,3.4 g
+0000010600,Mroźna Kraina Marchewka z groszkiem 450 g,mrozone,Y,w porcji 100 g,63 kcal,0.6 g,0.1 g,9 g,5.2 g,3.6 g,0.06 g,3.6 g
+0000007294,Mroźna Kraina Warzywa na patelnię po indyjsku 450 g,mrozone,Y,w porcji 100 g,47 kcal,0.5 g,0.1 g,5.7 g,2.8 g,2.7 g,0.35 g,4.6 g
+0000003181,Mroźna Kraina Trio warzywne z mini marchewką 750 g,mrozone,Y,w porcji 100 g,22 kcal,0.4 g,0.1 g,0.9 g,0.6 g,2 g,0.05 g,3.3 g
+0000013405,Mroźna Kraina Brzoskwinia 300 g,mrozone,Y,w porcji 100 g,45 kcal,0 g,0 g,9.9 g,8.7 g,0.6 g,0.02 g,1.3 g
+0000011478,Mroźna Kraina Polskie wiśnie bez pestek 450 g,mrozone,Y,w porcji 100 g,53 kcal,0.4 g,0.2 g,11 g,6.6 g,0.7 g,0 g,2.2 g
+0000002686,Dorsz atlantycki porcje fileta bez skóry 475g,mrozone,N,,,,,,,,,
+0000004821,Mroźna Kraina Warzywa na patelnię po europejsku 700 g,mrozone,Y,w porcji 100 g,79 kcal,2.7 g,0.4 g,8.8 g,1.7 g,2.7 g,0.41 g,4.2 g
+0000017800,FRoSTA Złote paluszki rybne z fileta 450 g,mrozone,Y,w porcji 100 g,182 kcal,8.3 g,0.8 g,14 g,0.9 g,13 g,0.94 g,
+0000004822,Mroźna Kraina Warzywa na patelnię Letnie 700 g,mrozone,Y,w porcji 100 g,79 kcal,5.4 g,0.6 g,4.3 g,4.3 g,2 g,0.57 g,2.7 g
+0000007293,Mroźna Kraina Warzywa na patelnię po hiszpańsku 450 g,mrozone,Y,w porcji 100 g,53 kcal,1.2 g,0.2 g,7.1 g,3.1 g,1.8 g,0.35 g,3.4 g
+0000000342,Mroźna Kraina Mieszanka Wiosenna 750 g,mrozone,Y,w porcji 100 g,58 kcal,0.5 g,0.12 g,8.9 g,1.6 g,2.8 g,0.08 g,
+0000007295,Mroźna Kraina Warzywa na patelnię po meksykańsku 450 g,mrozone,Y,w porcji 100 g,60 kcal,0.4 g,0.2 g,9.7 g,3.5 g,3.1 g,0.5 g,2.5 g
+0000006880,Mroźna Kraina Mango 450g,mrozone,Y,w porcji 100 g,77 kcal,0.4 g,0 g,13.5 g,13 g,0.7 g,0 g,1.4 g
+0000006963,Grycan Lody waniliowe 1100 ml,mrozone,Y,w porcji 100 g,261 kcal,15.3 g,9.8 g,26.1 g,23.2 g,4.5 g,0.19 g,0.3 g
+0000004084,ABRAMCZYK Mintaj polędwice bez skóry bez dodatków 10% 450/500 g,mrozone,Y,w porcji 100 g,70 kcal,0.6 g,0.1 g,0 g,0 g,16 g,0.24 g,
+0000008313,Zielona Budka Lody o smaku miętowym 1000 ml,mrozone,Y,w porcji 100 g,118 kcal,6.6 g,5.8 g,13 g,13 g,1.3 g,,
+0000004641,Koral Lody o smaku śmietankowym kostka śnieżna 180 ml,mrozone,Y,w porcji 100 g,196 kcal,9 g,7.6 g,25 g,19 g,3.7 g,0.2 g,
+0000002687,Grycan Lody bakaliowe 1100 ml,mrozone,Y,w porcji 100 g,270 kcal,14.9 g,8.9 g,28.7 g,26.1 g,4.7 g,0.18 g,1.1 g
+0000007449,Marletto czekoladowe Lody czekoladowe 1000 ml,mrozone,Y,w porcji 100 g,246 kcal,13 g,8.8 g,27 g,23 g,3.9 g,0.1 g,
+0000005135,Mroźna Kraina Jagody leśne 300 g,mrozone,Y,w porcji 100 g,58 kcal,0.4 g,0.1 g,12.1 g,9.7 g,0.4 g,0 g,2 g
+0000006905,Kaktus Lody wodne o smaku cytrynowym i sorbet truskawkowy (9 sztuk) 405 ml,mrozone,Y,w porcji 100 g,132 kcal,3.4 g,2.9 g,25 g,18 g,0.5 g,0.01 g,0.5 g
+0000016864,Marletto Fairy tale Popcorn & caramel flavour 800 ml,mrozone,Y,w porcji 100 g,229 kcal,9.7 g,8.5 g,32 g,28 g,2.9 g,0.28 g,0.5 g
+0000005392,Mroźna kraina Warzywa na patelnię po polski 450 g,mrozone,Y,w porcji 100 g,40 kcal,0.4 g,0.1 g,6.1 g,1.7 g,1.6 g,0.4 g,2.7 g
+0000006667,Marletto orzech włoski Lody o smaku orzechów włoskich z karmelizowanymi orzechami włoskimi 1000 ml,mrozone,Y,w porcji 100 g,274 kcal,17 g,7.3 g,26 g,22 g,4.4 g,0.09 g,
+0000008341,Marletto Rożek słodny karmel 150 ml,mrozone,Y,w porcji 100 g,297 kcal,15 g,11 g,37 g,27 g,4.1 g,0.32 g,
+0000006415,Hortex Warzywa na patelnię z bazylią i tymiankiem 450 g,mrozone,Y,w porcji 100 g,27 kcal,0.5 g,0.1 g,3.7 g,2.5 g,1.4 g,0.45 g,2.4 g
+0000006274,FRoSTA Steki rybne 340 g,mrozone,Y,w porcji 100 g,185 kcal,7.5 g,0.7 g,15 g,2 g,14 g,1.1 g,
+0000009059,Marletto Lody orzech laskowy 150 ml,mrozone,Y,w porcji 100 g,366 kcal,21 g,12 g,39 g,26 g,4.8 g,0.13 g,0.9 g
+0000005390,Mroźna Kraina Warzywa na patelnię po turecku 450 g,mrozone,Y,w porcji 100 g,85 kcal,3.6 g,0.6 g,10 g,3.4 g,1.7 g,0.05 g,2.3 g
+0000006279,Milka Lody o smaku waniliowym z sosem karmelowym 90 ml,mrozone,Y,w porcji 100 g,348 kcal,21 g,14 g,36 g,30 g,4 g,0.48 g,0.9 g
+0000012008,Marinero Morszczuk Argentyński filet bez skóry 900 g,mrozone,Y,w porcji 100 g,99 kcal,3.4 g,0.3 g,0 g,0 g,17 g,0.18 g,0.5 g
+0000006838,Milka Mini rożki waflowe wypełnione lodami o smaku waniliowym (8 x 25 ml) 200 ml,mrozone,Y,w porcji 100 g,417 kcal,24 g,18 g,45 g,31 g,4.2 g,0.25 g,1.5 g
+0000007452,Marletto White Almond Lody waniliowe w białej czekoladzie z kawałkami prażonych migdałów na patyku 120 ml,mrozone,Y,w porcji 100 g,341 kcal,21 g,13 g,32 g,30 g,4.3 g,0.13 g,
+0000006272,Nesquik Lody kakaowe i lody waniliowe (9 sztuk) 387 ml,mrozone,Y,w porcji 100 g,201 kcal,8.6 g,7.7 g,28 g,22 g,2.1 g,0.1 g,0.9 g
+0000009057,Marletto Lody smak jagoda 150 ml,mrozone,Y,w porcji 100 g,292 kcal,12 g,8.9 g,43 g,34 g,3.5 g,0.14 g,0.5 g
+0000011432,Hortex Bób mrożony 450 g,mrozone,Y,w porcji 100 g,73 kcal,0.5 g,0.1 g,7.8 g,2.6 g,6.8 g,0.02 g,5.6 g
+0000007442,Marletto o smaku słony karmel Lody o smaku śmietankowym z sosem o smaku karmelu 250 ml,mrozone,Y,w porcji 100 g,256 kcal,13 g,9 g,32 g,27 g,3.9 g,0.4 g,
+0000007441,Marletto mango marakuja Lody o smaku śmietankowym sorbet mango-marakuja z sosem brzoskwinia-marakuja 250 ml,mrozone,Y,w porcji 100 g,170 kcal,5.4 g,3.5 g,28 g,24 g,1.8 g,0.04 g,
+0000012610,Magnum Lody Almond 110 ml,mrozone,Y,w porcji 100 ml,251 kcal,15 g,9.4 g,24 g,21 g,3.6 g,0.1 g,
+0000015939,Carte D'Or Les Desserts Lody o smaku ciasteczek i lody cytrynowe 825 ml,mrozone,Y,w porcji 100 g,165 kcal,3.7 g,3.1 g,30 g,24 g,1.2 g,0.08 g,
+0000006666,Marletto Lody śmietankowe z płatkami czekoladowymi 1000 ml,mrozone,Y,w porcji 100 g,256 kcal,13 g,8.6 g,31 g,27 g,3.3 g,0.11 g,
+0000002358,Family Fish Ryba z piekarnika z sosem włoskim 320 g,mrozone,Y,w porcji 100 g,109 kcal,4.8 g,1 g,2.5 g,2.5 g,13.4 g,0.5 g,1.3 g
+0000008311,Zielona Budka Lody karmel z solą 1000 ml,mrozone,Y,w porcji 100 g,128 kcal,6.7 g,6 g,16 g,14 g,1.4 g,,
+0000008213,Diuna Lody waniliowe z sosem wiśniowym i wiśniami 900 ml,mrozone,Y,w porcji 100 g,193 kcal,4.8 g,4.3 g,36 g,32 g,1.6 g,0.06 g,
+0000008212,Diuna Lody waniliowe z sosem o smaku advocaata i posypką czekoladową 900 ml,mrozone,Y,w porcji 100 g,190 kcal,6.7 g,5.8 g,30 g,25 g,2.4 g,0.13 g,
+0000011863,Milka Lody waniliowe z kawałkami polewy z czekoladą mleczną 90 ml,mrozone,Y,w porcji 100 g,360 kcal,23 g,16 g,33 g,30 g,4 g,0.17 g,0.9 g
+0000002356,Family Fish Ryba z piekarnika z sosem brokułowym 320 g,mrozone,Y,w porcji 100 g,107 kcal,4.1 g,1.2 g,5.4 g,1.8 g,11.7 g,0.63 g,1 g
+0000001702,Abramczyk Mintaj filet 475g,mrozone,Y,w porcji 100 g,75 kcal,0.8 g,0.4 g,0 g,0 g,17 g,0.31 g,
+0000007451,Marletto classic Lody waniliowe w czekoladzie mlecznej na patyku 120 ml,mrozone,Y,w porcji 100 g,316 kcal,20 g,14 g,31 g,28 g,3.5 g,0.1 g,
+0000004811,Marletto Lody rożek śmietankowo-waniliowe w polewie z belgijskiej białej czekolady z kawałkami migdałów 150 ml,mrozone,Y,w porcji 100 g,292 kcal,15 g,9.7 g,35 g,24 g,4.7 g,0.16 g,
+0000012611,Magnum Lody Classic 110 ml,mrozone,Y,w porcji 100 ml,225 kcal,13 g,9.5 g,22 g,20 g,2.4 g,0.09 g,
+0000016027,Carte D'Or Les Desserts Lody o smaku tiramisu 825 ml,mrozone,Y,w porcji 100 g,196 kcal,6.2 g,5.5 g,31 g,23 g,2.3 g,0.09 g,
+0000012149,Lody Carte D'or Les Desserts Tiramisu Lody 900 ml,mrozone,Y,w porcji 100 ml,115 kcal,4.1 g,3.6 g,17 g,14 g,1.8 g,0.07 g,
+0000016080,Big Milk Lody smak śmietankowo truskawkowy 900 ml,mrozone,Y,w porcji 100 g,152 kcal,5.4 g,4.8 g,22 g,19 g,2.5 g,0.12 g,
+0000006881,Mroźna Kraina Ananas 450 g,mrozone,Y,w porcji 100 g,63 kcal,0.2 g,0 g,14 g,13 g,0.9 g,0 g,1 g
+0000004801,Marletto Lody rożek o smaku śmietankowo - kokosowym w polewie mlecznej z kawałkami migdałów 150 ml,mrozone,Y,w porcji 100 g,313 kcal,17 g,12 g,35 g,23 g,5 g,0.16 g,
+0000004805,Marletto Lody rożek o smaku czekolady mlecznej z kawałkami migdałów 150 ml,mrozone,Y,w porcji 100 g,301 kcal,16 g,12 g,36 g,23 g,4.1 g,0.2 g,
+0000002689,Grycan Lody czekoladowe 1100 ml,mrozone,Y,w porcji 100 g,248 kcal,12.4 g,7.8 g,28.2 g,25 g,4.8 g,0.17 g,2.3 g
+0000008263,Ben & Jerry's Lody o smaku masła orzechowego Netflix & Chilll'd 465ml,mrozone,Y,w porcji 100 g,276 kcal,16 g,7.3 g,28 g,22 g,5.1 g,0.66 g,
+0000008220,Diuna Lody o smaku śmietankowym i czekoladowym 1 l,mrozone,Y,w porcji 100 g,178 kcal,8.8 g,7.9 g,22 g,20 g,2.5 g,0.1 g,0.6 g
+0000016081,Big Milk Lody smak śmietankowo waniliowy 900 ml,mrozone,Y,w porcji 100 g,159 kcal,5.9 g,5.2 g,23 g,19 g,2.6 g,0.12 g,
+0000008304,Marletto Lody o smaku słonego karmelu 720ml,mrozone,Y,w porcji 100 ml,340 kcal,21 g,13 g,33 g,29 g,4.3 g,0.45 g,0.8 g
+0000006964,Grycan Lody truskawkowe 1100 ml,mrozone,Y,w porcji 100 g,231 kcal,12.1 g,7.7 g,26.4 g,24.3 g,3.6 g,0.15 g,0.7 g
+0000008221,Diuna Lody o smaku śmietankowym 1 l,mrozone,Y,w porcji 100 g,172 kcal,9 g,8.2 g,20 g,18 g,2.5 g,0.1 g,0.6 g
+0000007472,Big Milk Choco Intense lody 1 L,mrozone,Y,w porcji 100 ml,90 kcal,3.3 g,2.7 g,13 g,11 g,1.6 g,0.07 g,
+0000007450,Marletto Lody waniliowe 1000 ml,mrozone,Y,w porcji 100 g,224 kcal,12 g,8.2 g,26 g,18 g,3 g,0.11 g,
+0000008214,"Diuna Lody waniliowe z smaku tiramisu, sosem kawowym, biszkoptami o smaku kawowym i posypką kakaową 900 ml",mrozone,Y,w porcji 100 g,207 kcal,7.5 g,5.8 g,31 g,28 g,3.3 g,0.11 g,1 g
+0000009480,Milka Lody waniliowe z kawałkami czekolady mlecznej i musem z czekoladą mleczną 480 ml,mrozone,Y,w porcji 100 g,271 kcal,15 g,11 g,31 g,26 g,3.5 g,0.13 g,0.6 g
+0000007741,"Bounty Multipack baton lodowy 4 x 39,1g",mrozone,Y,w porcji 100 ml,269 kcal,16 g,11 g,27 g,23 g,3.1 g,0.11 g,
+0000001640,Marinero Morszczuk argentyński filety bez skóry (Merluccius hubbsi) mrożone 475g,mrozone,N,,,,,,,,,
+0000016040,Marletto Fairy tale Mango & Coconut 90 ml,mrozone,Y,w porcji 100 g,359 kcal,22 g,16 g,36 g,31 g,3.3 g,0.12 g,0.5 g
+0000000037,Magnum Lody o smaku Double Gold Caramel Billionaire 85 ml,mrozone,Y,w porcji 100 g,325 kcal,17 g,12 g,38 g,29 g,4.4 g,0.33 g,
+0000008219,Diuna Lody o smaku śmietankowym i truskawkowym 1 l,mrozone,Y,w porcji 100 g,167 kcal,7.5 g,6.8 g,22 g,20 g,2.5 g,0.1 g,0.6 g
+0000014994,Ben & Jerry's Dulce De-lish Lody 427 ml,mrozone,Y,w porcji 100 g,263 kcal,14 g,9.6 g,31 g,26 g,3.3 g,0.4 g,
+0000012150,Carte D'Or Lody waniliowe o smaku Baileys 900 ml,mrozone,Y,w porcji 100 g,228 kcal,8.6 g,7.2 g,28 g,22 g,1.8 g,0.06 g,
+0000009479,Oreo Lody o smaku waniliowym z ciastkami kakaowymi 480 ml,mrozone,Y,w porcji 100 g,236 kcal,11 g,8.6 g,30 g,19 g,3.7 g,0.45 g,0.8 g
+0000016028,Carte D'Or Les Desserts Lody waniliowe o smaku Baileys 825 ml,mrozone,Y,w porcji 100 g,194 kcal,8 g,6.6 g,29 g,22 g,1.6 g,0.06 g,
+0000008262,Ben & Jerry's  Lody waniliowe z kawałkami ciastek z czekoladą (16%) i kawałkami czekolady (1%) 465 ml,mrozone,Y,w porcji 100 ml,235 kcal,13 g,8 g,27 g,22 g,3.5 g,0.12 g,
+0000016197,Kinder Bueno Lody 90 ml,mrozone,Y,w porcji 100 g,354 kcal,20.4 g,10.3 g,35.2 g,26.3 g,6.6 g,0.33 g,
+0000016198,Lody Kinder Chocolate 55 ml,mrozone,Y,w porcji 100 g,370 kcal,24.2 g,15.2 g,31.7 g,29.7 g,6.1 g,0.28 g,
+0000007443,Marletto owoce leśne Lody o smaku śmietankowym z sorbetem z owoców leśnych z sosem owoce leśne 250 ml,mrozone,Y,w porcji 100 g,171 kcal,4.2 g,3.5 g,32 g,28 g,1.5 g,0.04 g,
+0000007474,Big Milk Strawberry intense lody 1 L,mrozone,Y,w porcji 100 ml,85 kcal,2.7 g,2.3 g,14 g,11 g,1.2 g,0.05 g,
+0000009953,Magnum Double Sunlover Lody 85 ml,mrozone,N,,,,,,,,,
+0000009800,Koral Iza lody o smaku śmietankowo-cytrynowo-truskawkowo-czekoladowym z sosem wieloowocowym 270ml,mrozone,Y,w porcji 100 g,192 kcal,7.9 g,7.2 g,28 g,26 g,2.3 g,0.11 g,
+0000010159,Magnum Double Starchaser Pint Lody 440 ml,mrozone,Y,w porcji 100 g,304 kcal,17 g,11 g,33 g,26 g,3.1 g,0.2 g,
+0000007448,Marletto truskawkowe Lody truskawkowe z kawałkami kandyzowanych truskawek 1000 ml,mrozone,Y,w porcji 100 g,189 kcal,7.9 g,5.3 g,26 g,23 g,3 g,0.06 g,
+0000009030,Marletto Fruit Lody smaki malina i jabłko 8 x 70 ml,mrozone,Y,w porcji 100 g,94 kcal,0.5 g,0.1 g,23 g,21 g,0.5 g,0.02 g,0.5 g
+0000005665,Lody Almond Magnum 440 ml,mrozone,Y,w porcji 100 g,351 kcal,22 g,12 g,33 g,31 g,4.9 g,0.12 g,
+0000016137,Big Milk Intense Lody smak truskawkowy z sosem truskawkowym i kawałkami truskawek 900 ml,mrozone,Y,w porcji 100 g,143 kcal,3.6 g,3.2 g,25 g,22 g,1.9 g,0.09 g,
+0000016229,Zielona Budka Lody o smaku waniliowym ze śmietanką (4 sztuki) 360 ml,mrozone,Y,w porcji 100 g,226 kcal,13 g,10 g,26 g,20 g,2.1 g,0.15 g,0.5 g
+0000006280,Oreo Lody o smaku waniliowym z ciastkami kakaowymi 90 ml,mrozone,Y,w porcji 100 g,343 kcal,21 g,13 g,35 g,24 g,3.4 g,0.29 g,0.9 g
+0000016138,Big Milk Intense Lody smak czekoladowy z sosem czekoladowym i kawałkami czekolady 900 ml,mrozone,Y,w porcji 100 g,160 kcal,4.6 g,3.8 g,25 g,22 g,3.1 g,0.11 g,
+0000009096,Zott Monte Lody śmietankowe i lody czekoladowo-orzechowe w czekoladzie mlecznej 110 ml,mrozone,Y,w porcji 100 g,336 kcal,22.3 g,14.3 g,29 g,27.1 g,4.2 g,0.12 g,
+0000009952,Magnum Double Raspberry Lody 85 ml,mrozone,Y,w porcji 100 g,324 kcal,19 g,13 g,35 g,27 g,3.1 g,0.13 g,
+0000000039,Magnum Lody o smaku Almond Remix 85ml,mrozone,Y,w porcji 100 g,348 kcal,22 g,14 g,32 g,27 g,5.1 g,0.16 g,
+0000016164,Magnum Euphoria Pink Lemonade Lody 90 ml,mrozone,Y,w porcji 100 g,310 kcal,17 g,12 g,34 g,28 g,3.8 g,0.15 g,
+0000015962,Raffaello Lody o smaku kokosowym z chrupiącą polewą o smaku kokosowym z kawałkami migdałów 70 ml,mrozone,Y,w porcji 100 g,362 kcal,24.8 g,20.4 g,28.6 g,26.9 g,5.2 g,0.2 g,
+0000015216,Magnum Classic Lody 440 ml,mrozone,Y,w porcji 100 g,304 kcal,18 g,12 g,30 g,27 g,3.4 g,0.11 g,
+0000011802,Mroźna Kraina Kalafior różyczki 450g,mrozone,Y,w porcji 100 g,21 kcal,0.2 g,0.1 g,2.7 g,2.6 g,1.7 g,0.01 g,1 g

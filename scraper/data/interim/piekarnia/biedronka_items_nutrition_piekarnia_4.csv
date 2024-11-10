@@ -1,0 +1,5 @@
+item_id,item_name,item_type,nutrition_flag,wartość,fat,saturated_fat,carbohydrates,sugar,protein,salt,fiber,kcal,kJ
+0000009852,"Warkocz klonowy, 86 g",piekarnia,Y,w porcji 100 g,30.6 g,11.8 g,47.1 g,14.1 g,4.8 g,0.39 g,1.6 g,484 kcal,2016 kj
+0000010904,"Przekąska z wołowiną w sosie bolońskim, 105 g",piekarnia,Y,w porcji 100 g,3.32 g,0.99 g,33.81 g,4.52 g,8.83 g,1.64 g,,209 kcal,874 kj
+0000014713,"Mini bagietka w stylu włoskim, 70 g",piekarnia,Y,w porcji 100 g,9.4 g,5.5 g,54 g,2.9 g,9.5 g,1.6 g,3.1 g,343 kcal,1444 kj
+0000014906,Good Food Wafle ryżowe Multigrain 100 g,piekarnia,Y,w porcji 100 g,5.9 g,0.9 g,72 g,1.2 g,9.8 g,0.23 g,5.3 g,391 kcal,

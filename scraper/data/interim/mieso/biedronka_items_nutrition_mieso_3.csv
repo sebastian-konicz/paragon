@@ -1,0 +1,33 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,protein,salt,fiber
+0000000794,Kraina Wędlin Kiełbasa podwawelska kg,mieso,Y,w porcji 100 g,239 kcal,19 g,7 g,7 g,1 g,16 g,1.9 g,
+0000008038,Duda Filet pieczony z kurczaka plastry 200 G,mieso,Y,w porcji 100 g,109 kcal,2.8 g,1 g,2 g,0.5 g,19 g,2.5 g,
+0000007025,Polędwica drobiowa plastry 250 g,mieso,Y,w porcji 100 g,100 kcal,2 g,0.6 g,2.5 g,1 g,18 g,1.8 g,
+0000005274,Kraina Mięs Wolno gotowane Filet z kaczki z sosem żurawinowym 480 g + 30 g sos,mieso,Y,w porcji 100 g,161 kcal,11 g,3.6 g,1.1 g,0.6 g,14 g,1.3 g,
+0000006916,Tarczyński Kabanosy Exclusive chilli 105 g,mieso,Y,w porcji 100 g,535 kcal,45 g,19 g,4.5 g,1.5 g,27 g,2.5 g,
+0000004879,Kraina Wędlin kiełbaski białe z szynki 270 g,mieso,Y,w porcji 100 g,243 kcal,19 g,8 g,0.6 g,0.5 g,17 g,1.6 g,0.6 g
+0000006589,Kraina Wędlin Szynka z indyka cienkie plastry 150g,mieso,Y,w porcji 100 g,98 kcal,2 g,0.8 g,2 g,0.6 g,18 g,1.9 g,
+0000002242,Marinero Łosoś wędzony na gorąco łagodny 125 g,mieso,Y,w porcji 100 g,195 kcal,11 g,2 g,0 g,0 g,24 g,1.7 g,0 g
+0000012517,Tarczyński Kabanosy Exclusive z indyka z wieprzowiną 90 g,mieso,Y,w porcji 100 g,490 kcal,42 g,17 g,2.9 g,0.5 g,25 g,2.7 g,
+0000011296,Kraina Mięs Select Kurczak farmerski Skrzydła z kurczaka kg,mieso,N,,,,,,,,,
+0000011306,Kraina Mięs Select Udo z kurczaka kg,mieso,N,,,,,,,,,
+0000016945,Dolina Dobra Śląskie kiełbaski śniadaniowe 100% mięsa 200 g,mieso,Y,w porcji 100 g,234 kcal,18 g,6.6 g,0.7 g,0 g,17 g,2.1 g,
+0000006264,Kraina Wędlin Szynka zawędzana cienkie plastry 250 g,mieso,Y,w porcji 100 g,102 kcal,2 g,0.7 g,3 g,0.8 g,18 g,2.5 g,0 g
+0000005440,Tarczyński Gryzzale Kabanosy z szynki z cielęciną 90 g,mieso,Y,w porcji 100 g,381 kcal,29 g,12 g,3.9 g,1.1 g,26 g,2.2 g,
+0000004413,Kraina Mięs Szynka wieprzowa bez kości,mieso,N,,,,,,,,,
+0000001888,"Kraina Mięs Mięso wołowe na gulasz, 500 g",mieso,N,,,,,,,,,
+0000002203,Kraina Mięs Żeberka Wieprzowe,mieso,Y,w porcji 100 g,160 kcal,0 g,0 g,37 g,32.5 g,1 g,5 g,1 g
+0000012659,Marinero Filety śledziowe a'la Matjas 460/350 g,mieso,Y,w porcji 100 g,172 kcal,14.4 g,3.3 g,0 g,0 g,10.5 g,6.45 g,
+0000004584,Marinero Śledzie krojone z trawą cytrynową i pieprzem cytrynowym 200g,mieso,Y,w porcji 100 g,268 kcal,20 g,2.2 g,7.7 g,5.3 g,9 g,2.1 g,2.2 g
+0000000248,"Kraina Mięs Kurczak bez podrobów świeży, klasa A",mieso,N,,,,,,,,,
+0000009457,Fisherking Pstrąg łososiowy wędzony w plastrach 100 g,mieso,Y,w porcji 100 g,198 kcal,13 g,2.5 g,0 g,0 g,20 g,3.2 g,
+0000016514,Lisner Śledzik na raz w sosie grzybowym kurki 100 g,mieso,Y,w porcji 100 g,309 kcal,28 g,4.2 g,6.4 g,5.6 g,7.8 g,1.9 g,
+0000007344,Kraina Mięs Kostka z fileta z piersi kurczaka świeża 400 g,mieso,N,,,,,,,,,
+0000004877,Kraina Wędlin Kiełbaski białe z szynki 270 g,mieso,Y,w porcji 100 g,249 kcal,19 g,9 g,2.6 g,1 g,17 g,1.7 g,1.4 g
+0000000118,Marinero Makrela wędzona,mieso,Y,w porcji 100 g,256 kcal,20 g,4.9 g,0.5 g,0.5 g,19 g,1.2 g,0.5 g
+0000007284,Kraina Mięs Sznycel z fileta z piersi indyka,mieso,N,,,,,,,,,
+0000001111,Kraina Wędlin Select Kiełbasa Krakowska Sucha i Salami Ostródzkie plastry 100 g,mieso,Y,w porcji 100 g,212 kcal,11 g,4.1 g,0.2 g,0 g,28 g,3.4 g,
+0000004697,Drobimex Szynka delikatesowa z kurcząt 100 g,mieso,Y,w porcji 100 g,107 kcal,2.5 g,1.2 g,2.2 g,0.5 g,19 g,2 g,
+0000000957,"Kraina Mięs Karkówka bez kości kotlety wieprzowe, 560 g",mieso,N,,,,,,,,,
+0000007087,Tarczyński Naturalnie parówki z szynki 200 g,mieso,Y,w porcji 100 g,287 kcal,25 g,9.4 g,1.3 g,1.1 g,14 g,2.1 g,
+0000004913,Kraina Wędlin Parówki z szynki 250 g,mieso,Y,w porcji 100 g,285 kcal,25 g,10 g,0.7 g,0.7 g,14 g,2.1 g,0.8 g
+0000006593,"Morlińska Szynka z kurczaka, 250 g",mieso,Y,w porcji 100 g,94 kcal,0.5 g,0.2 g,5 g,0.7 g,17 g,1.8 g,

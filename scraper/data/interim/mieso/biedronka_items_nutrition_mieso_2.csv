@@ -1,0 +1,33 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,protein,salt,fiber
+0000004696,Drobimex Pierś pieczona 100 g,mieso,Y,w porcji 100 g,113 kcal,2 g,0.7 g,1.8 g,1.8 g,22 g,2.5 g,
+0000001310,Marinero Łosoś Norweski wędzony plastry 150 g,mieso,Y,w porcji 100 g,175 kcal,11 g,1.5 g,0.1 g,0.1 g,19 g,2.9 g,
+0000004681,Krakus Szynka eksportowa wieprzowa 120 g,mieso,Y,w porcji 100 g,98 kcal,1.6 g,0.6 g,2 g,1.9 g,19 g,2.5 g,
+0000000958,"Mięso mielone z szynki wieprzowej, 500 g",mieso,Y,w porcji 100 g,140 kcal,6 g,2 g,1.5 g,0.5 g,20 g,0.1 g,
+0000005019,Kraina Wędlin Select Kiełbasa żywiecka z szynki plastry 100 g,mieso,Y,w porcji 100 g,212 kcal,10 g,4.8 g,3.3 g,0.8 g,26 g,2.4 g,2.6 g
+0000006453,Tarczyński Kabanosy Exclusive paluszki wieprzowe 95 g,mieso,Y,w porcji 100 g,498 kcal,42 g,17 g,6.7 g,2.7 g,22 g,2.8 g,
+0000002243,Marinero Łosoś wędzony na gorąco z pieprzem 125 g,mieso,Y,w porcji 100 g,195 kcal,11 g,2 g,0 g,0 g,24 g,1.7 g,
+0000002207,"Sokołów Salami w obsypce nuss, 100 g",mieso,Y,w porcji 100 g,425 kcal,37 g,15 g,4 g,1 g,19 g,3.7 g,
+0000006059,Dolina Dobra Filet ze schabu wieprzowego 300 g,mieso,N,,,,,,,,,
+0000007874,El Toro Rojo Szynka Serrano 80g,mieso,Y,w porcji 100 g,232 kcal,12 g,4 g,1 g,0.5 g,30 g,5 g,
+0000007086,Tarczyński Naturalnie parówki z kurczaka 160 g,mieso,Y,w porcji 100 g,217 kcal,17 g,5.6 g,2 g,0.5 g,14 g,2.2 g,
+0000006503,Kraina Wędlin Parówki z filetem z kurczaka 250 g,mieso,Y,w porcji 100 g,194 kcal,14 g,3.8 g,1.1 g,0.7 g,16 g,2 g,0 g
+0000004110,Kraina Wędlin Boczek parzony wędzony plastry 100 g,mieso,Y,w porcji 100 g,303 kcal,26 g,10 g,0.5 g,0.5 g,17 g,2 g,
+0000009506,Kraina Mięs Porcja rosołowa z kurczaka świeża,mieso,N,,,,,,,,,
+0000001249,Gusto Bello Szynka Prosciutto 80 g,mieso,Y,w porcji 100 g,231 kcal,13 g,4 g,1 g,0.5 g,27.5 g,5 g,
+0000006312,Vici Paluszki surimi 250 g,mieso,Y,w porcji 100 g,112 kcal,3.2 g,0.3 g,13.2 g,2.9 g,8.2 g,1.33 g,
+0000001262,Kraina Wędlin Polędwica sopocka plastry 140 g,mieso,Y,w porcji 100 g,97 kcal,2.6 g,1 g,1 g,0.6 g,18 g,2.2 g,0 g
+0000004878,Kraina Wędlin Kiełbaski śląskie z szynki 270 g,mieso,Y,w porcji 100 g,245 kcal,19 g,9.2 g,1.5 g,0.9 g,17 g,2.1 g,0.6 g
+0000003802,Kraina Mięs Skrzydła z kurczaka,mieso,N,,,,,,,,,
+0000012933,Kraina Wędlin Salami codzienne 300 g,mieso,Y,w porcji 100 g,338 kcal,28 g,11 g,3.4 g,1.7 g,18 g,3 g,0.5 g
+0000004941,Kraina Mięs Wolno gotowane nogi z kaczki z sosem żurawinowym 500 g + 30 g sos,mieso,Y,w porcji 100 g,181 kcal,13 g,4.7 g,2 g,0.5 g,14 g,1.5 g,
+0000001734,Berlinki Classic parówki 300 g,mieso,Y,w porcji 100 g,225 kcal,18 g,6.7 g,2.8 g,1 g,13 g,2.5 g,
+0000006826,Tarczyński Parówki premium z fileta z kurczaka (2 x 90 g) 180 g,mieso,Y,w porcji 100 g,242 kcal,19 g,6.5 g,4.3 g,0.9 g,13 g,2.1 g,
+0000007497,"Kraina Mięs Paski z fileta kurczaka świeże, 400 g",mieso,N,,,,,,,,,
+0000007190,Kraina Wędlin Select Kabanosy z wędzarni 175 g,mieso,Y,w porcji 100 g,468 kcal,40 g,16 g,1 g,1 g,26 g,3.5 g,
+0000001769,Kraina Mięs Podudzie z kurczaka świeże klasa A kg,mieso,N,,,,,,,,,
+0000007815,Kraina Mięs Mięso mielone ze schabu wieprzowego 400 g,mieso,N,,,,,,,,,
+0000003238,Krakus Parówki z piersi kurczaka drobiowe 200 g ,mieso,Y,w porcji 100 g,185 kcal,13 g,3.4 g,1 g,0.7 g,16 g,2.2 g,
+0000012214,Olewnik Sucha krakowska z szynki 150 g,mieso,Y,w porcji 100 g,190 kcal,8 g,3.2 g,1.2 g,0.9 g,28 g,2.8 g,
+0000006604,Kraina Wędlin Głodniaki Szyneczka z fileta z kurczaka 2x50g,mieso,Y,w porcji 100 g,105 kcal,1.5 g,0.6 g,2.9 g,0.5 g,20 g,1.7 g,
+0000001431,Kraina Mięs Polędwiczka wieprzowa,mieso,N,,,,,,,,,
+0000002206,"Sokołów Salami w obsypce cebula, 100 g",mieso,Y,w porcji 100 g,425 kcal,37 g,15 g,4 g,1 g,19 g,3.7 g,

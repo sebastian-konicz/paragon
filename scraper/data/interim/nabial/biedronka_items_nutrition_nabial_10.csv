@@ -1,0 +1,33 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,protein,salt,fiber
+0000005870,Zott Jogobella Jogurt truskawka 400 g,nabial,Y,w porcji 100 g,100 kcal,2.6 g,1.8 g,14.8 g,13.8 g,3.5 g,0.15 g,
+0000017529,Actimel Kids Truskawka-Banan 6x100 g,nabial,Y,w porcji 100 g,70 kcal,1.4 g,1 g,10.7 g,10.6 g,2.8 g,0.1 g,
+0000009636,"Go Active Pudding proteinowy, smak waniliowy 200g",nabial,Y,w porcji 100 g,76 kcal,1.3 g,0.8 g,6 g,4.4 g,10 g,0.27 g,0.1 g
+0000010665,Światowid Ser topiony z szynką 130 g,nabial,Y,w porcji 100 g,298 kcal,25 g,17 g,3.3 g,2.2 g,15 g,2.5 g,
+0000001081,Światowid Liliput Ser podpuszczkowy dojrzewający 350 g,nabial,Y,w porcji 100 g,335 kcal,27 g,16 g,0.1 g,0.1 g,23 g,1.5 g,0 g
+0000010435,Président Twaróg sernikowy 1 kg,nabial,Y,w porcji 100 g,92 kcal,4 g,2.8 g,4.2 g,3.9 g,9.7 g,0.1 g,
+0000004363,Hochland Ser kremowy w plastrach gouda 130 g,nabial,Y,w porcji 100 g,244 kcal,17 g,11 g,6.7 g,6.7 g,16 g,2.6 g,
+0000004975,Turek Camembert natura 120 g,nabial,Y,w porcji 100 g,356 kcal,31 g,22 g,1.3 g,0.5 g,18 g,1.7 g,
+0000001839,Actimel o smaku truskawkowym 6x100 g,nabial,Y,w porcji 100 g,76 kcal,1.4 g,1 g,12 g,11.9 g,2.8 g,0.1 g,
+0000001825,Delikate Serek o smaku waniliowym 400 g,nabial,Y,w porcji 100 g,136 kcal,6.5 g,4.2 g,13.5 g,11.8 g,5.6 g,0.1 g,0 g
+0000005190,Delikate Kremowy bawarski ser łagodny 150 g,nabial,Y,w porcji 100 g,442 kcal,43 g,29 g,0.1 g,0.1 g,13.7 g,1.6 g,
+0000004174,Światowid Rolada Ustrzycka plastry 300 g,nabial,Y,w porcji 100 g,316 kcal,24 g,15 g,0 g,0 g,25 g,1.4 g,0 g
+0000004904,Go Active Napój proteinowy o smaku czekoladowym 250 g,nabial,Y,w porcji 100 g,60 kcal,0.2 g,0.11 g,4.6 g,4.5 g,10 g,0.1 g,0 g
+0000019223,Müller Müllermilch Protein Napój mleczny o smaku waniliowym 400 g,nabial,Y,w porcji 100 g,60 kcal,1.5 g,1 g,5 g,5 g,6.5 g,0.13 g,
+0000004939,Jogurt BIO naturalny 140 g,nabial,Y,w porcji 100 g,63 kcal,2 g,1.4 g,6.8 g,6.8 g,4.5 g,0.13 g,
+0000014900,Mlekovita Ser Wypasiony premium plastry 300 g,nabial,Y,w porcji 100 g,366 kcal,30 g,19 g,0 g,0 g,24 g,1.4 g,
+0000007074,"Mlekovita Mleko spożywcze Polskie 3,2% tłuszczu 1 l",nabial,Y,w porcji 100 g,60 kcal,3.2 g,2 g,4.7 g,4.7 g,3 g,0.1 g,
+0000010266,Piątnica Jogurt naturalny 330 g,nabial,Y,w porcji 100 g,58 kcal,2.4 g,1.6 g,4 g,4 g,5 g,0.1 g,
+0000007719,"Piątnica  Koktajl białkowy - truskawka, banan 250 ml",nabial,Y,w porcji 100 g,88 kcal,1.2 g,0.7 g,9 g,9 g,10.2 g,0.09 g,
+0000006521,Piątnica Skyr jogurt pitny typu islandzkiego wanilia 330 ml,nabial,Y,w porcji 100 g,78 kcal,1.5 g,1.1 g,9.5 g,9 g,6.5 g,0.08 g,
+0000002315,Fruvita 0% jogurt pitny truskawkowy 400 g,nabial,Y,w porcji 100 g,41 kcal,0.2 g,0.1 g,6 g,4.8 g,3.7 g,0.13 g,0.06 g
+0000005324,Go Bio Kefir naturalny 500 g,nabial,Y,w porcji 100 g,43 kcal,1.5 g,0.9 g,4 g,4 g,3.4 g,0.1 g,
+0000001827,Delikate Serek naturalny 400 g,nabial,Y,w porcji 100 g,112 kcal,7.5 g,4.9 g,4 g,4 g,6.9 g,0.1 g,0 g
+0000005477,Sierpc Ser królewski Light plastry 135 g,nabial,Y,w porcji 100 g,301 kcal,19 g,12 g,1.6 g,0 g,31 g,1.4 g,
+0000007265,Go Vege Cocojogu Wegański deser truskawka 150g,nabial,Y,w porcji 100 g,93 kcal,4.3 g,3.9 g,12.9 g,7.5 g,0.4 g,0.04 g,0.5 g
+0000019311,Alpro Skyr Style sojowy mango 150 g,nabial,Y,w porcji 100 g,84 kcal,3 g,0.5 g,8.4 g,8.1 g,5.2 g,0.26 g,1.2 g
+0000006447,Galbani Ricotta  250 g,nabial,Y,w porcji 100 g,111 kcal,7 g,5.5 g,5 g,5 g,7 g,0.3 g,
+0000005187,Delikate Kremowy bawarski ser Caractere 150 g,nabial,Y,w porcji 100 g,442 kcal,43 g,29 g,0.1 g,0.1 g,13.7 g,1.6 g,
+0000006909,Müllermilch Napój mleczny SHAKE o smaku czekoladowo - ciasteczkowym 400 g,nabial,Y,w porcji 100 g,90 kcal,3.5 g,2.4 g,11 g,10.4 g,3.4 g,0.15 g,
+0000004855,Mleczna Dolina Masło bez laktozy kostka 200 g ,nabial,Y,w porcji 100 g,744 kcal,82 g,55 g,0.7 g,0.7 g,0.7 g,0 g,
+0000016933,Mullermilch Protein Napój mleczny czekoladowy 400 g,nabial,Y,w porcji 100 g,60 kcal,1.5 g,1 g,5 g,5 g,6.5 g,0.13 g,
+0000006730,GustoBello Gorgonzola Piccante Pikantna 150 g,nabial,Y,w porcji 100 g,344 kcal,29 g,20 g,0.9 g,0.1 g,20 g,2.82 g,

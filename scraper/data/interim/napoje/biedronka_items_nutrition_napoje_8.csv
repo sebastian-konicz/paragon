@@ -1,0 +1,17 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,protein,salt
+0000012456,Tymbark Napój Jabłko mięta 500 ml,napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,4.5 g,4.5 g,0 g,0 g
+0000014678,FuzeTea Napój niegazowany o smaku brzoskwiniowym 500 ml,napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,4.4 g,4.4 g,0 g,0.02 g
+0000006426,"Nałęczowianka Naturalna woda mineralna niegazowana rPET 0,5 l",napoje,N,,,,,,,,
+0000007712,Tymbark gazzzowany mango pomarańcza 330 ml,napoje,Y,w porcji 100 ml,18 kcal,0 g,0 g,4.5 g,4.5 g,0 g,0 g
+0000009615,Fortuna Sok 100% pomidor 1 l,napoje,Y,w porcji 100 ml,18 kcal,0.5 g,0.1 g,2.7 g,2.7 g,0.8 g,0.7 g
+0000009872,"Nestea Black Tea Napój herbaciany o smaku cytrynowym 1,5 l",napoje,Y,w porcji 100 ml,18 kcal,0.5 g,0.1 g,4.3 g,4.3 g,0.5 g,0.02 g
+0000011178,Go Active Vitamin Water smak pomarańczowy 750 ml,napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,4.8 g,4.7 g,0 g,0 g
+0000008909,Nałęczowianka Woda mineralna mocniejszy gaz 1 l,napoje,N,,,,,,,,
+0000009456,"Nestea Green Tea Napój o smaku cytrusowym 1,5 l",napoje,Y,w porcji 100 ml,16 kcal,0.5 g,0.1 g,3.9 g,3.9 g,0.5 g,0.02 g
+0000015295,"Nałęczowianka Sport Naturalna woda mineralna niegazowana 0,75 l",napoje,N,,,,,,,,
+0000007713,Tymbark gazzzowany jabłko arbuz 330 ml,napoje,Y,w porcji 100 ml,18 kcal,0 g,0 g,4.5 g,4.5 g,0 g,0 g
+0000009314,"Hellena Oranżada zielona 1,25 l",napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,4.4 g,4.3 g,0 g,0.03 g
+0000015297,"Nałęczowianka NAŁ KIDS woda mineralna niegazowana 0,33 l",napoje,N,,,,,,,,
+0000008654,Cola Original Zero 1 L,napoje,Y,w porcji 100 ml,1 kcal,0 g,0 g,0 g,0 g,0 g,0 g
+0000009876,Żywiec Bezalkoholowy napój piwny lemonż & nuta cola 500 ml,napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,5.1 g,4.1 g,0 g,0.02 g
+0000009434,"Hellena Oranżada żółta 1,25 l",napoje,Y,w porcji 100 ml,19 kcal,0 g,0 g,4.4 g,4.3 g,0 g,0.03 g

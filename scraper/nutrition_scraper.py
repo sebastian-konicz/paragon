@@ -8,118 +8,158 @@ pd.set_option('display.max_columns', None)  # Brak limitu na liczbę kolumn
 pd.set_option('display.width', None)  # Brak limitu szerokości wyświetlania
 pd.set_option('display.max_rows', None)  # Opcjonalnie, wyświetlanie wszystkich wierszy
 
-def articles_scraper(product_type):
+column_dict = {'fat': ('tłuszcz', 'zawartość tłuszczów (ogólnie)'),
+               'saturated_fat': (
+               'w tym kwasy tłuszczowe nasycone', 'kwasy tłuszczowe nasycone', 'w tym kasy tłuszczowe nasycone',
+               'tym nasycone', 'w tym kwasy tłuszczowe', 'tym kwasy tłuszczowe nasycone',
+               'w tym nasycone kwasy tłuszczowe', 'w tym kwasy tłuszczowe nasycone '),
+               'monounsaturated fatty acids': ('kwasy tłuszczowe jednonienasycone', 'w tym kwasy tłuszczowe jednonienasycone'),
+               'polyunsaturated fatty acids': ('kwasy tłuszczowe wielonienasycone', 'w tym kwasy tłuszczowe wielonienasycone'),
+               'carbohydrates': ('węglowodany', 'zawartość węglowodanów'),
+               'sugar': ('w tym cukry', 'cukry', 'w tym cukry ', 'w tym cukier'),
+               'fiber': ('błonnik', 'zawartość błonnika'),
+               'protein': ('białko', 'zawartość białek'),
+               'salt': ('sól', 'zawartość soli'),
+               'kcal': ('wartość energetyczna kcal', 'wartość energetyczna  kcal', 'wartość energetyczna kcal kcal',
+                        'wartość odżywcza (w 100 g produktu) kcal'),
+               'kJ': ('wartość energetyczna kJ', 'wartość energetyczna  kJ', 'wartość odżywcza (w 100 g produktu) kJ'),
+               'starch': ('skrobia', 'zawartość skrobii', 'w tym skrobia'),
+               'polyols': ('alkohole wielowodorotlenowe - poliole', 'w tym poliole'),
+               'omega3': ('omega 3', 'omega_3'),
+               'ergokalcyferol': ('ergokalcyferol lub witamina d2', 'witamina d2'),
+               'dha': ('w tym dha (kwas dokozaheksaenowy)', 'w tym dha')
+               }
+
+def rename_columns(df, column_dict):
+    # Tworzymy mapowanie nazw kolumn
+    column_map = {}
+    for key, value_tuple in column_dict.items():
+        for value in value_tuple:
+            column_map[value] = key
+
+    # Zmieniamy nazwy kolumn w DataFrame
+    new_columns = [column_map.get(col, col) for col in df.columns]
+    df.columns = new_columns
+    return df
+
+def nutrition_scraper(product_type, i):
+
     cwd = os.getcwd()
 
-    title = product_type.upper()
-    print(f'-------------------------------------------------------')
-    print(f'--------------------{title}----------------------------')
-    print(f'-------------------------------------------------------')
+    file_path = f'biedronka_items_{product_type}_{i}'
 
-    # variables
-    pages_text = '/?page='
+    # Ścieżka do folderu
+    folder_path = cwd + f'/data/interim/{product_type}'
 
-    # Ustaw URL strony do pobrania
-    url = f"https://zakupy.biedronka.pl/{product_type}"
-
+    # Sprawdzenie, czy folder istnieje
+    if not os.path.exists(folder_path):
+        # Tworzenie folderu, jeśli nie istnieje
+        os.mkdir(folder_path)
+        print(f'Folder "{folder_path}" został utworzony.')
+    else:
+        print(f'Folder "{folder_path}" już istnieje.')
 
     # Ustaw nagłówki, aby symulować przeglądarkę
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
     }
 
-    # Wykonaj zapytanie HTTP GET
-    response = requests.get(url, headers=headers)
+    # ładowanie pliku
+    df = pd.read_csv(cwd + f'/data/raw/{product_type}/{file_path}.csv')
 
-    # -------------------------------------------------------------------
-    # wyciąganie liczby stron z danej kategori
-    # -------------------------------------------------------------------
-    if response.status_code == 200:
-        # Przetwórz HTML przy pomocy BeautifulSoup
-        soup = BeautifulSoup(response.content, "html.parser")
+    df['item_id'] = df['item_id'].apply(lambda x: str(x).zfill(10))
 
-        # Znajdź wszystkie elementy <div> o klasie 'nazwa-klasy'
-        pagination = soup.find("div", class_="bucket-pagination")
+    items_id = df['item_id'].to_list()
+    items_name = df['item_name'].to_list()
+    items_type = df['item_type'].to_list()
+    items_links = df['item_link'].to_list()
 
-        pages = pagination.find_all("a", class_="bucket-pagination__link")
+    items_dict = dict(zip(items_id, items_links))
 
-        page_number_list = []
-        for page in pages:
-            number = int(page.text)
-            page_number_list.append(number)
-        max_page_value = max(page_number_list)
-        print(f'page_number: {max_page_value}')
-    else:
-        print("Błąd pobierania strony:", response.status_code)
+    result_dict = {k: (v1, v2, v3) for k, v1, v2, v3 in zip(items_id, items_name, items_type, items_links)}
 
-    # --------------------------------------------------------------------
-    # wyciąganie nazw produktów i linków z poszczególnych stron
-    # -------------------------------------------------------------------
-    for page_number in range(1,max_page_value+1):
-        full_url = url + pages_text + str(page_number)
-        print('-------------------------------------')
-        print(full_url)
-        print('-------------------------------------')
+    df_list = []
+    for id, value in result_dict.items():
+
+        item_name = value[0]
+        item_type = value[1]
+        url = value[2]
+        print(id, item_name, item_type, url)
 
         # Wykonaj zapytanie HTTP GET
-        response = requests.get(full_url, headers=headers)
+        response = requests.get(url, headers=headers)
 
         # Przetwórz HTML przy pomocy BeautifulSoup
         soup = BeautifulSoup(response.content, "html.parser")
 
         if response.status_code == 200:
-            # Znajdź wszystkie elementy <div> o klasie 'nazwa-klasy'
-            div_elements = soup.find_all("div", class_="product-tile")
+            # puste listy do wypełnienia
+            header_list = []
+            value_list = []
 
-            item_id_list = []
-            item_name_list = []
-            item_link_list = []
-            item_image_list = []
+            header_list.append('item_id')
+            value_list.append(id)
 
-            for div_element in div_elements:
-                item_id = div_element.get("data-itemid")
-                item_id_list.append(item_id)
-                # print(item_id)
+            header_list.append('item_name')
+            value_list.append(item_name)
 
-                item_name = div_element.find("div", class_="thumb-link").get("data-title")
-                item_name_list.append(item_name)
-                # print(item_name)
+            header_list.append('item_type')
+            value_list.append(item_type)
 
-                item_link = div_element.find("div", class_="thumb-link").get("data-href")
-                item_link_list.append(item_link)
-                # print(item_link)
+            # Znajdź tabele z wartościami odżywczymi'
+            table = soup.find("table", class_="product-description__table")
+            if table:
+                header_list.append('nutrition_flag')
+                value_list.append('Y')
 
-                item_image_link = div_element.find("picture", class_="tile-image__container").find("source").get("data-srcset")
-                item_image_list.append(item_image_link)
-                # print(item_image_link)
+                thead = table.find('thead')
+                if thead:
+                    ths = thead.find_all('th')
+                    th_header = ths[0].text.lower()
+                    th_value = ths[1].text.lower()
+                    header_list.append(th_header)
+                    value_list.append(th_value)
+                else:
+                    header_list.append('wartość')
+                    value_list.append('w porcji 100 g')
 
-            data = {
-                'item_id': item_id_list,
-                'item_name': item_name_list,
-                'item_link': item_link_list,
-                'item_image': item_image_list
-            }
+                rows = table.find_all('tr')
 
-            # Tworzymy słownik, gdzie klucze to nazwy kolumn, a wartości to odpowiednie listy
-            data = {
-                'item_id': item_id_list,
-                'item_name': item_name_list,
-                'item_link': item_link_list,
-                'item_image': item_image_list
-            }
+                for row in rows[:-1]:
+                    cols = row.find_all('td')
+                    # print(f'column_name: {cols[0].text}', f'| column_value: {cols[1].text}')
+                    header = cols[0].text.lower()
+                    if cols[1].text[-4:] == 'kcal':
+                        header = header + ' kcal'
+                        value = cols[1].text.lower()
+                    elif cols[1].text[-2:] == 'kJ':
+                        header = header + ' kJ'
+                        value = cols[1].text.lower()
+                    else:
+                        value = cols[1].text.lower()
+                    header_list.append(header)
+                    value_list.append(value)
+                # print(header_list)
+                # print(value_list)
+            else:
+                header_list.append('nutrition_flag')
+                value_list.append('N')
+            df = pd.DataFrame([value_list], columns=header_list)
 
-            # Tworzymy DataFrame
-            df = pd.DataFrame(data)
+            df_renamed = rename_columns(df, column_dict)
 
-            df['item_type'] = product_type
-
-            # Wyświetlamy DataFrame
-            print(df)
-
-            df.to_csv(cwd + f'/data/raw/biedronka_items_{product_type}_{page_number}.csv', index=False)
+            print(df_renamed)
+            df_list.append(df_renamed)
         else:
             print("Błąd pobierania strony:", response.status_code)
 
+    data = pd.concat(df_list)
+    print(data)
+
+    data.to_csv(cwd + f'/data/interim/{product_type}/biedronka_items_nutrition_{product_type}_{i}.csv', index=False)
+
+    return data
 if __name__ == "__main__":
-    product_type = 'owoce'
-    articles_scraper(product_type)
+    product_type = 'piekarnia'
+    i ='test'
+    nutrition_scraper(product_type, i)

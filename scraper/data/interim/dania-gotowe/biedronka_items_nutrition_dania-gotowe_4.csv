@@ -1,0 +1,33 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,fiber,protein,salt
+0000005317,Nasze Smaki Kotlet drobiowy z marchewką z groszkiem i puree ziemniaczanym 400 g,dania-gotowe,Y,w porcji 100 g,112 kcal,4.6 g,0.9 g,9.7 g,3.5 g,3.1 g,6.5 g,0.8 g
+0000008475,GustoBello Gnocchi nadziewane serem gorgonzola 400g,dania-gotowe,Y,w porcji 100 g,159 kcal,3.5 g,2.3 g,26 g,0.4 g,1.7 g,4.5 g,1.3 g
+0000008473,"Vital Fresh Lunch box, kasza bulgur, słonecznik, ser solankowy, burak 250 g",dania-gotowe,Y,w porcji 100 g,150 kcal,8 g,1.8 g,13 g,8.2 g,2 g,5.4 g,0.45 g
+0000006821,Pudliszki Flaki wołowe po zamojsku 500 g,dania-gotowe,Y,w porcji 100 g,52 kcal,1.4 g,0.6 g,2.9 g,0.9 g,0.5 g,6.9 g,1.4 g
+0000009735,Dega Sałatka pikantna z makrelą 130g,dania-gotowe,Y,w porcji 100 g,141 kcal,11 g,1.3 g,5 g,4.5 g,,4.7 g,1.5 g
+0000005314,"SmaczneGo! Sałatka bulgur z sosem pomidorowo-paprykowym, czerwoną fasolą & hummus paprykowy 220 g",dania-gotowe,Y,w porcji 100 g,190 kcal,11 g,1.1 g,15 g,3.1 g,6.7 g,4.5 g,1.1 g
+0000008973,Pudliszki Gołąbki w sosie pomidorowym 600 g,dania-gotowe,Y,w porcji 100 g,52 kcal,2 g,0.8 g,4.8 g,1.8 g,1.4 g,3 g,1 g
+0000004570,Kurki Sałatka warzywno-jajeczna z kurkami 500g Lisner,dania-gotowe,Y,w porcji 100 g,245 kcal,20 g,2 g,13 g,5.5 g,,2.4 g,1.3 g
+0000007900,"Go Vege Pasta warzywna Biała Fasola, Siemię Lniane 180 g",dania-gotowe,Y,w porcji 100 g,220 kcal,17 g,1.5 g,9.4 g,4.3 g,5.7 g,3.8 g,1.3 g
+0000002032,Donatello Czerwone papryczki Antipasti nadziewane serkiem 180 g,dania-gotowe,Y,w porcji 100 g,178 kcal,17 g,11 g,1.2 g,0.7 g,3.1 g,3.6 g,1.2 g
+0000011479,Frosta Ryba z pieca z brokułami 330 g,dania-gotowe,Y,w porcji 100 g,120 kcal,7.4 g,4.3 g,2.4 g,0.9 g,,11 g,0.72 g
+0000016211,Nasze Smaki Pierogi z truskawkami 800 g,dania-gotowe,Y,w porcji 100 g,182 kcal,1.2 g,0.3 g,37 g,8 g,3.2 g,4.3 g,0.32 g
+0000005313,"SmaczneGo! Sałatka bulgur z sosem pomidorowo-paprykowym, zielonymi oliwkami & hummus klasyczny 220 g",dania-gotowe,Y,w porcji 100 g,188 kcal,11 g,2.2 g,14 g,2.6 g,6.7 g,4.8 g,1.2 g
+0000008251,Rio Mare Insalatissime Sałatka z tuńczykiem kuskus z ciecierzycą groszkiem i pomidorkami 160 g,dania-gotowe,Y,w porcji 100 g,244 kcal,16 g,2.7 g,15 g,1 g,,9 g,1.1 g
+0000006085,Wawrzyniec Pasta warzywna z suszonymi pomidorami i żurawiną 180 g,dania-gotowe,Y,w porcji 100 g,244 kcal,20 g,1.5 g,11 g,6.5 g,4.5 g,4.1 g,1.4 g
+0000016416,GO ACTIVE Tofu z makaronem teriyaki 420 g,dania-gotowe,Y,w porcji 100 g,140 kcal,2.3 g,0.3 g,23 g,5.7 g,1 g,7.1 g,0.76 g
+0000009682,Biedronka Zupa w stylu indyjskim 450 g,dania-gotowe,Y,w porcji 100 g,37 kcal,1 g,0.5 g,2.9 g,1.8 g,,2.4 g,0.55 g
+0000008250,Rio Mare Insalatissime Sałatka z tuńczykiem meksykańska z czerwoną fasolą kukurydzą i papryką 160 g,dania-gotowe,Y,w porcji 100 g,197 kcal,13 g,1.6 g,8.3 g,1.8 g,,10 g,1.1 g
+0000004711,Biedronka Zupa barszcz ukraiński 450g,dania-gotowe,Y,w porcji 100 g,42 kcal,0.8 g,0.2 g,4.9 g,2.6 g,,2.6 g,0.52 g
+0000002048,Salato Sałatka jarzynowa 250 g,dania-gotowe,Y,w porcji 100 g,221 kcal,18.5 g,1.5 g,7.5 g,3.3 g,,2.3 g,1 g
+0000009607,"Vital Fresh Lunch box makaron, oliwki, ser Mozzarella, kurczak 255g",dania-gotowe,Y,w porcji 100 g,153 kcal,9.5 g,1.9 g,9.4 g,2 g,1.1 g,7 g,0.52 g
+0000002047,Salato Sałatka warzywna z jajkiem 250g,dania-gotowe,Y,w porcji 100 g,214 kcal,18.6 g,1.5 g,8.1 g,1.9 g,,2.5 g,1.1 g
+0000006566,"Kraina Mięs Indyk ze śliwką, 500 g",dania-gotowe,Y,w porcji 100 g,118 kcal,2.5 g,0.7 g,2.7 g,1.9 g,,20 g,1.1 g
+0000002944,Salato Sałatka z kurczakiem kebab 150g,dania-gotowe,Y,w porcji 100 g,220 kcal,17.9 g,1.5 g,8.1 g,4.6 g,,5.8 g,1.2 g
+0000006974,Biedronka Zupa jarzynowa 450g,dania-gotowe,Y,w porcji 100 g,29 kcal,0.4 g,0.1 g,4.7 g,1.6 g,,1.1 g,0.6 g
+0000002046,Salato Sałatka śledziowa z papryką 250 g,dania-gotowe,Y,w porcji 100 g,225 kcal,19.3 g,1.6 g,8.7 g,3.2 g,,2.9 g,1.3 g
+0000004816,Biedronka Zupa kapuśniak 450g,dania-gotowe,Y,w porcji 100 g,32 kcal,1.3 g,0.4 g,2.4 g,1.7 g,,2.3 g,0.7 g
+0000009572,Go Active Kurczak z ryżem w sosie meksykańskim 420g,dania-gotowe,Y,w porcji 100 g,132 kcal,2.5 g,0.3 g,19.9 g,2.8 g,1 g,6.9 g,0.6 g
+0000009737,Pudliszki Klopsiki w sosie pomidorowym 600g,dania-gotowe,Y,w porcji 100 g,127 kcal,6.9 g,1.6 g,10 g,2.9 g,0.8 g,5.4 g,1.3 g
+0000002942,Salato Sałatka ziemniaczana z boczkiem 150g,dania-gotowe,Y,w porcji 100 g,246 kcal,21.1 g,2 g,9 g,3.3 g,,4.1 g,1.1 g
+0000002943,Salato Sałatka z indykiem i brzoskwinią 150g,dania-gotowe,Y,w porcji 100 g,240 kcal,20.2 g,1.8 g,9.2 g,4.5 g,,4.7 g,1.1 g
+0000008039,Biedronka Zupa w stylu marokańskim 450 g,dania-gotowe,Y,w porcji 100 g,56 kcal,1 g,0.2 g,6.5 g,2.5 g,,3.2 g,0.68 g

@@ -1,0 +1,137 @@
+item_id,item_name,item_type,nutrition_flag,wartość,kcal,fat,saturated_fat,carbohydrates,sugar,fiber,protein,salt
+0000001804,Dania Express Lasagne bolognese 1 kg,dania-gotowe,Y,w porcji 100 g,172 kcal,8.8 g,3.6 g,15 g,1.5 g,1.5 g,7.5 g,0.96 g
+0000000715,Kopytka Nasze Smaki 500 g,dania-gotowe,Y,w porcji 100 g,148 kcal,1.2 g,0.2 g,30 g,2.5 g,2.4 g,3 g,1.2 g
+0000004268,Vital Fresh Surówka z buraczków 300 g,dania-gotowe,Y,w porcji 100 g,95 kcal,3.4 g,0.2 g,13.4 g,13.4 g,3.2 g,1.2 g,0.82 g
+0000006555,Vital Fresh Surówka Colesław z białej kapusty 450g,dania-gotowe,Y,w porcji 100 g,100 kcal,6.3 g,0.5 g,8.2 g,6.8 g,2.2 g,1.5 g,0.77 g
+0000004000,Nasze Smaki Kluski śląskie 400 g,dania-gotowe,Y,w porcji 100 g,128 kcal,1 g,0.2 g,28 g,0.5 g,1.1 g,1.6 g,0.98 g
+0000003835,Nasze Smaki Pierogi ruskie 400 g,dania-gotowe,Y,w porcji 100 g,164 kcal,4.1 g,0.7 g,25 g,1.4 g,2.3 g,5.7 g,0.98 g
+0000012379,Nasze Smaki Naleśniki z serem i rodzynkami 400 g,dania-gotowe,Y,w porcji 100 g,164 kcal,4.2 g,1.3 g,21 g,8.6 g,1.5 g,9.6 g,0.55 g
+0000006878,Dania Express Lasagne bolognese 450g,dania-gotowe,Y,w porcji 100 g,168 kcal,8.9 g,3.4 g,13 g,1.9 g,1.6 g,8.1 g,0.79 g
+0000003840,Nasze Smaki Pierogi z serem 400g,dania-gotowe,Y,w porcji 100 g,164 kcal,2.1 g,0.3 g,24 g,4.9 g,3.3 g,10 g,0.03 g
+0000011391,Lisner O Mamo! Sałatka warzywna z jajkiem 500 g,dania-gotowe,Y,w porcji 100 g,227 kcal,20 g,1.8 g,8.7 g,3.6 g,,2.2 g,1.1 g
+0000003781,Nasze Smaki Placki ziemniaczane 400 g,dania-gotowe,Y,w porcji 100 g,214 kcal,12 g,1.1 g,21 g,2.9 g,2.6 g,4.2 g,1.3 g
+0000012331,Nasze Smaki Naleśniki z jabłkami 400g,dania-gotowe,Y,w porcji 100 g,118 kcal,1.7 g,0.8 g,22 g,8.5 g,1.1 g,3 g,0.37 g
+0000003837,Nasze Smaki Krokiety z mięsem 400g,dania-gotowe,Y,w porcji 100 g,251 kcal,13 g,2.8 g,23 g,2.8 g,2.4 g,9.6 g,1.2 g
+0000002340,Mr. Potato Frytki proste 1 kg,dania-gotowe,Y,w porcji 100 g,135 kcal,4.2 g,0.5 g,21 g,0.2 g,,2.5 g,0.12 g
+0000011480,Frosta Ryba z pieca po włosku 345 g,dania-gotowe,Y,w porcji 100 g,119 kcal,6.9 g,3.9 g,3.7 g,2.3 g,,10 g,0.79 g
+0000000294,Nasze Smaki Flaki wołowe w rosole 900g,dania-gotowe,Y,w porcji 100 g,30 kcal,0.5 g,0.2 g,1.1 g,0.6 g,0.5 g,5.3 g,1 g
+0000008342,Mr.Potato Frytki Długie Cienkie 7 mm x7 mm 1 kg,dania-gotowe,Y,w porcji 100 g,154 kcal,5.2 g,0.4 g,23 g,1 g,2.4 g,2.7 g,0.05 g
+0000006022,Biedronka Zupa ogórkowa 450g,dania-gotowe,Y,w porcji 100 g,21 kcal,0.9 g,0.4 g,1.3 g,1.3 g,,1.5 g,0.85 g
+0000002031,Donatello Żółte papryczki Antipasti nadziewane serkiem 180 g,dania-gotowe,Y,w porcji 100 g,192 kcal,15 g,11 g,10 g,9.4 g,1.4 g,3.5 g,0.68 g
+0000008277,Go Vege Hummus z toppingiem czerwone pesto 160 g,dania-gotowe,Y,w porcji 100 g,253 kcal,19 g,2 g,11 g,2.7 g,5.5 g,6.8 g,0.91 g
+0000011196,Lisner Szybka rybka Filet z mintaja w chrupiącej panierce 170 g,dania-gotowe,Y,w porcji 100 g,216 kcal,10.3 g,0.9 g,17.5 g,1 g,,12.8 g,1.3 g
+0000008524,"Asia Flavours Mieszanka chińska, 450 g",dania-gotowe,Y,w porcji 100 g,29 kcal,0.2 g,0.1 g,5.5 g,3.2 g,0.5 g,1.2 g,0.03 g
+0000008287,Go Vege Hummus z burakiem 160 g,dania-gotowe,Y,w porcji 100 g,192 kcal,13 g,1.4 g,8.8 g,3 g,6.8 g,6.6 g,0.85 g
+0000008569,Biedronka Zupa pomidorowa z makaronem orzo 450g,dania-gotowe,Y,w porcji 100 g,34 kcal,0.4 g,0.1 g,5.9 g,3 g,,1.6 g,0.6 g
+0000007392,Jadłowiec Fasolka po bretońsku 500g,dania-gotowe,Y,w porcji 100 g,128 kcal,4.8 g,1.8 g,13 g,3.6 g,3.2 g,6.5 g,1 g
+0000011392,Lisner Sałatka warzywna z groszkiem 500 g,dania-gotowe,Y,w porcji 100 g,224 kcal,19.5 g,1.8 g,9.4 g,2.9 g,,1.8 g,0.8 g
+0000008152,Go Vege Gyros roślinny na bazie grochu 150 g,dania-gotowe,Y,w porcji 100 g,300 kcal,19 g,1.7 g,8.7 g,3.2 g,3.1 g,22 g,1.9 g
+0000000955,Salato Pasta z tuńczykiem 80 g,dania-gotowe,Y,w porcji 100 g,301 kcal,27.4 g,2.5 g,3.7 g,3.3 g,2.2 g,8.8 g,2 g
+0000008478,Nasze Smaki Pierogi z mięsem i cebulką 320 g,dania-gotowe,Y,w porcji 100 g,221 kcal,10 g,3 g,22 g,1.8 g,1.7 g,9.3 g,0.98 g
+0000004269,Vital Fresh Surówka z ogórkiem 300 g,dania-gotowe,Y,w porcji 100 g,82 kcal,3.7 g,0.3 g,9.8 g,9.1 g,2.4 g,1.1 g,0.92 g
+0000005308,SmaczneGo! Hummus klasyczny z preclami 140g,dania-gotowe,Y,w porcji 100 g,281 kcal,15 g,1.5 g,28 g,1.9 g,,8.5 g,1.9 g
+0000008278,Go Vege Hummus orientalny 160 g,dania-gotowe,Y,w porcji 100 g,263 kcal,19 g,2.1 g,11 g,4.4 g,8.1 g,7.9 g,1.5 g
+0000001701,Mroźna Kraina Zupa grzybowa z podgrzybkami i borowikami 450g,dania-gotowe,Y,w porcji 100 g,41 kcal,0.2 g,0.1 g,7 g,1 g,2.7 g,1.4 g,0.03 g
+0000008911,"Nasze Smaki Kotlet De Volaille Roladka z mięsa z kurczaka z masłem, z marchewką z groszkiem i puree ziemniaczanym 400 g",dania-gotowe,Y,w porcji 100 g,127 kcal,6.7 g,3 g,9.2 g,3.3 g,2 g,6.5 g,1.1 g
+0000009151,"GustoBello Pizza prosciutto funghi, pizza z szynką i pieczarkami 430 g",dania-gotowe,Y,w porcji 100 g,213 kcal,5.4 g,3.2 g,30 g,2.5 g,2 g,10 g,1.7 g
+0000005316,Nasze Smaki Kotlet mielony wieprzowy z buraczkami zasmażanymi i puree ziemniaczanym 400 g,dania-gotowe,Y,w porcji 100 g,132 kcal,7.3 g,2.2 g,11 g,5.6 g,1.3 g,4.6 g,0.92 g
+0000011185,Donatello Spaghetti Bolognese 400 g,dania-gotowe,Y,w porcji 100 g,126 kcal,3.6 g,1.2 g,16 g,2 g,1.5 g,7 g,1 g
+0000008276,Go Vege Hummus z toppingiem spicy salsa 160 g,dania-gotowe,Y,w porcji 100 g,235 kcal,18 g,1.9 g,8.9 g,1.8 g,7 g,5.9 g,1.6 g
+0000011202,"Nasze Smaki Pierogi z pieczarkami, mozzarellą i smażoną cebulą 320 g",dania-gotowe,Y,w porcji 100 g,181 kcal,6.3 g,0.7 g,22.5 g,3.4 g,3.3 g,7 g,1.65 g
+0000004739,Asia Flavours Sajgonki z wieprzowiną 278 g,dania-gotowe,Y,w porcji 100 g,243 kcal,15 g,1.5 g,21 g,2.8 g,1.7 g,5.7 g,1.3 g
+0000000954,Salato Pasta z łososiem 80 g,dania-gotowe,Y,w porcji 100 g,512 kcal,51.9 g,4.4 g,6 g,5.5 g,1.2 g,4.7 g,1.8 g
+0000009430,Mr. Potato Frytki karbowane 1 kg,dania-gotowe,Y,w porcji 100 g,129 kcal,3.4 g,0.4 g,21 g,0.6 g,,2.4 g,0.08 g
+0000011200,"Go Active Kuskus perłowy z ciecierzycą, fasolką i hummusem 220 g",dania-gotowe,Y,w porcji 100 g,156 kcal,7 g,2.4 g,15 g,1.4 g,5.1 g,5.8 g,1.5 g
+0000016210,Nasze Smaki Pierogi z mięsem 800 g,dania-gotowe,Y,w porcji 100 g,272 kcal,11 g,4.5 g,30 g,1.8 g,4.6 g,11 g,0.71 g
+0000002038,Mroźna Kraina Zupa kalafiorowa z koperkiem 750g,dania-gotowe,Y,w porcji 100 g,46 kcal,0.5 g,0.1 g,7.8 g,0.8 g,,1.9 g,0.08 g
+0000002034,Donatello Czereśniowe papryczki Antipasti nadziewane serkiem 180 g,dania-gotowe,Y,w porcji 100 g,169 kcal,12 g,7 g,11 g,10 g,2.4 g,3 g,0.5 g
+0000008910,Nasze Smaki Kotlet schabowy wieprzowy z buraczkami zasmażanymi i puree ziemniaczanym 400 g,dania-gotowe,Y,w porcji 100 g,119 kcal,5.1 g,1.2 g,12 g,5 g,1.3 g,5.8 g,0.88 g
+0000016149,Dania Express Frytki z kurczaka 400 g,dania-gotowe,Y,w porcji 100 g,194 kcal,10 g,1.3 g,11 g,0.8 g,0.5 g,14 g,1.7 g
+0000006559,Vital Fresh Surówka Smakołyk 450g,dania-gotowe,Y,w porcji 100 g,91 kcal,5.3 g,0.4 g,8.2 g,6.1 g,2.2 g,1.6 g,0.74 g
+0000003299,Aviko Grubo krojone frytki do piekarnika 750 g,dania-gotowe,Y,w porcji 100 g,145 kcal,3.5 g,1.8 g,25 g,0.5 g,2.5 g,2.5 g,0.1 g
+0000003839,Nasze Smaki Pierogi z kapustą i grzybami 400g,dania-gotowe,Y,w porcji 100 g,146 kcal,3.8 g,0.4 g,23 g,1.8 g,2.5 g,3.9 g,1.2 g
+0000006558,Vital Fresh Surówka Rarytasek 450g,dania-gotowe,Y,w porcji 100 g,93 kcal,5.2 g,0.4 g,9.2 g,8.1 g,2.3 g,1.2 g,0.66 g
+0000003782,Donatello Pizza Margherita z pieca kamiennego  (3 x 339 g) 1017 g,dania-gotowe,Y,w porcji 100 g,219 kcal,5.5 g,2.2 g,32 g,4.2 g,2.4 g,9.2 g,0.93 g
+0000004736,Asia Flavours Sajgonki z warzywami 278 g,dania-gotowe,Y,w porcji 100 g,215 kcal,11.3 g,0.9 g,21.2 g,4.7 g,4.4 g,5 g,1.83 g
+0000015926,Nasze Smaki Pierogi Serowo-Truskawkowe 400 g,dania-gotowe,Y,w porcji 100 g,175 kcal,1.8 g,0.2 g,30.2 g,7.7 g,3.7 g,7.7 g,0.38 g
+0000006291,Heinz Fasolka w sosie pomidorowym 415 g ,dania-gotowe,Y,w porcji 100 g,81 kcal,0.4 g,0.1 g,15.5 g,4.3 g,3.9 g,4.8 g,0.6 g
+0000003838,Nasze Smaki Pierogi serowo jagodowe 400g,dania-gotowe,Y,w porcji 100 g,170 kcal,1.6 g,0.2 g,30 g,8 g,3.5 g,7.4 g,0.35 g
+0000007393,JADŁOWIEC Flaki wołowe w rosole 500 g,dania-gotowe,Y,w porcji 100 g,54 kcal,2.3 g,1.1 g,0.7 g,0.5 g,0.7 g,7.2 g,1.2 g
+0000016165,Yeemy Bagietka do opiekania 175 g,dania-gotowe,Y,w porcji 100 g,314 kcal,13 g,8.7 g,40 g,3.8 g,1.8 g,8.4 g,1 g
+0000002305,Nasze Smaki Pierogi ze szpinakiem i serem 400g,dania-gotowe,Y,w porcji 100 g,155 kcal,3.4 g,1.3 g,25 g,2.4 g,2.6 g,5.2 g,0.95 g
+0000007898,"Go Vege Pasta warzywna Suszone pomidory, Żurawina 180 g",dania-gotowe,Y,w porcji 100 g,212 kcal,17 g,1.3 g,9.7 g,6.3 g,4.5 g,3.3 g,1.2 g
+0000008474,GustoBello Gnocchi nadziewane pomidorami i mozzarellą 400g,dania-gotowe,Y,w porcji 100 g,142 kcal,1.3 g,0.8 g,28 g,0.9 g,2.2 g,3.2 g,0.9 g
+0000006011,Dr. Oetker Guseppe Pizza salami 760 g (2 x 380 g),dania-gotowe,Y,w porcji 100 g,249 kcal,10 g,3.7 g,31 g,3.6 g,1.7 g,8.4 g,1.2 g
+0000007943,Donatello Pizza Capricciosa z pieca kamiennego 730g (2 x 365g),dania-gotowe,Y,w porcji 100 g,194 kcal,4.4 g,1.9 g,28 g,3.5 g,2.4 g,9.5 g,1.1 g
+0000007899,"Go Vege Pasta warzywna Pieczarki, Pestki dyni 180 g",dania-gotowe,Y,w porcji 100 g,204 kcal,19 g,1.6 g,2.2 g,2.2 g,5.1 g,3.7 g,1.3 g
+0000015925,Nasze Smaki Gulasz z kopytkami 400 g,dania-gotowe,Y,w porcji 100 g,122 kcal,3.5 g,1 g,16 g,2.6 g,1.8 g,5.7 g,1.3 g
+0000007390,JADŁOWIEC Gołąbki w sosie pomidorowym 500 g,dania-gotowe,Y,w porcji 100 g,86 kcal,3.9 g,1.5 g,7.8 g,3.9 g,1.5 g,4.1 g,1 g
+0000005549,Krakus Barszcz czerwony zupa karton 1 l,dania-gotowe,Y,w porcji 100 ml,34 kcal,0.1 g,0.1 g,7.1 g,7 g,,1 g,1.1 g
+0000009530,Feliciana Pizza Salame e Chorizo 320 g,dania-gotowe,Y,w porcji 100 g,265 kcal,9.7 g,4.6 g,34 g,4.2 g,2 g,9.6 g,1.2 g
+0000002039,Mroźna Kraina Zupa jarzynowa 750g,dania-gotowe,Y,w porcji 100 g,45 kcal,0.5 g,0.1 g,6.8 g,0.9 g,,2.2 g,0.07 g
+0000004569,Lisner Sałatka gyros z kurczakiem 500 g,dania-gotowe,Y,w porcji 100 g,236 kcal,19 g,1.8 g,11 g,5.1 g,,4.6 g,1.2 g
+0000016206,Nasze Smaki Pierogi ruskie 800 g,dania-gotowe,Y,w porcji 100 g,180 kcal,2.8 g,0.95 g,30 g,5.9 g,3.8 g,6.7 g,0.9 g
+0000016937,Dr. Oetker Mini pizza ser + pomidory (3 sztuki) 220 g,dania-gotowe,Y,w porcji 100 g,247 kcal,6.5 g,2.3 g,38 g,3.9 g,1.8 g,8.7 g,0.93 g
+0000007816,Danie Express Panierowane nuggetsy z piersi kurczaka 350 g,dania-gotowe,Y,w porcji 100 g,208 kcal,10 g,1.1 g,11 g,0.3 g,1.3 g,18 g,1.2 g
+0000010556,Pudliszki Fasolka po bretońsku z kiełbasą i boczkiem 600 g,dania-gotowe,Y,w porcji 100 g,87 kcal,2.9 g,1.1 g,9.1 g,3.2 g,3.5 g,4.3 g,0.95 g
+0000006087,Pasta Warzywna. Wawrzyniec z ciecierzycą i pieprzem i czarnuszką 180 g,dania-gotowe,Y,w porcji 100 g,240 kcal,19 g,1.5 g,8.2 g,1.6 g,6.5 g,5 g,1.5 g
+0000011184,Vital Fresh Lunch box pomidory koktajlowe kukurydza cebula gyros 210g,dania-gotowe,Y,w porcji 100 g,91 kcal,5.5 g,0.9 g,4.4 g,3.9 g,1.9 g,5.1 g,0.73 g
+0000010886,Asia Flavours Tikka masala kurczak z ryżem białym i dzikim 400g,dania-gotowe,Y,w porcji 100 g,119 kcal,2.4 g,1.2 g,17 g,1.3 g,0.9 g,6.8 g,1.2 g
+0000004813,Biedronka Zupa grochowa 450 g,dania-gotowe,Y,w porcji 100 g,73 kcal,2.6 g,1.1 g,7 g,1.6 g,,4.1 g,0.7 g
+0000009027,Nasze Smaki Placki po węgiersku 400 g,dania-gotowe,Y,w porcji 100 g,147 kcal,7.3 g,0.7 g,14.6 g,3.7 g,2.3 g,4.6 g,1.3 g
+0000010268,"Donatello Pizza 4 sery bezglutenowa i bez laktozy (Mozzarella, ser półtłusty dojrzewający, Cheddar i Emmental) 410g",dania-gotowe,Y,w porcji 100 g,269 kcal,11.7 g,6.7 g,29 g,3.6 g,1.9 g,11 g,1.2 g
+0000002033,Donatello Zielone papryczki Antipasti nadziewane serkiem 180 g,dania-gotowe,Y,w porcji 100 g,177 kcal,17 g,10 g,1 g,0.6 g,3.1 g,3.5 g,1.2 g
+0000007217,Hortex Gotowe danie à la gyros 450 g,dania-gotowe,Y,w porcji 100 g,76 kcal,0.7 g,0.2 g,11.6 g,2.6 g,1.8 g,5 g,0.4 g
+0000003283,Aviko Zig Zag extra frytki karbowane 750 g + 150 g,dania-gotowe,Y,w porcji 100 g,156 kcal,4.5 g,0.5 g,25 g,0.8 g,2.8 g,2.5 g,0.1 g
+0000010405,Biedronka Zupa pieczarkowa z makaronem 450g,dania-gotowe,Y,w porcji 100 g,40 kcal,0.7 g,0.3 g,6 g,2.9 g,,1.7 g,0.58 g
+0000004710,Biedronka Zupa krupnik 450g,dania-gotowe,Y,w porcji 100 g,38 kcal,0.4 g,0.1 g,6.1 g,0.7 g,,1.9 g,0.55 g
+0000009573,Go Active Kurczak z makaronem w sosie toskańskim 420g,dania-gotowe,Y,w porcji 100 g,128 kcal,3.3 g,0.3 g,17.6 g,3 g,0.6 g,7 g,0.6 g
+0000007749,Jadłowiec Gulasz po węgiersku 500g,dania-gotowe,Y,w porcji 100 g,130 kcal,9 g,3.7 g,5.5 g,2.8 g,0.7 g,6.4 g,0.79 g
+0000007394,Jadłowiec Flaki wołowe po zamojsku 500g,dania-gotowe,Y,w porcji 100 g,85 kcal,4.6 g,2.6 g,3.6 g,0.9 g,0.6 g,7.1 g,0.72 g
+0000000529,"Mr. Potato Frytki karbowane 2,5 kg",dania-gotowe,Y,w porcji 100 g,129 kcal,3.4 g,0.4 g,21 g,0.6 g,,2.4 g,0.08 g
+0000015097,Nasza Spiżarnia Zielona surówka słodko-kwaśna 480 g,dania-gotowe,Y,w porcji 100 g,70 kcal,1.7 g,0.2 g,11.7 g,11.7 g,1.3 g,1.2 g,1.5 g
+0000007391,JADŁOWIEC Pulpety w sosie pomidorowym 500 g,dania-gotowe,Y,w porcji 100 g,111 kcal,6.1 g,2.3 g,7.9 g,2.2 g,0.8 g,5.7 g,1.2 g
+0000005930,Yeemy Gyros z kurczaka 450 g,dania-gotowe,Y,w porcji 100 ml,176 kcal,8.5 g,3 g,0.3 g,0.3 g,1.1 g,24 g,1.6 g
+0000009704,Go Active Kurczak z ryżem w sosie curry 420g,dania-gotowe,Y,w porcji 100 g,129 kcal,3.3 g,0.6 g,18.1 g,2 g,0.8 g,6.9 g,0.52 g
+0000008713,Vivera Roślinny Sznycel w panierce 200 g,dania-gotowe,Y,w porcji 100 g,192 kcal,5.4 g,0.6 g,16.7 g,1.2 g,,17 g,1.2 g
+0000016407,NASZA SPIŻARNIA Sałatka z białej kapusty 880 g,dania-gotowe,Y,w porcji 100 g,62 kcal,1.5 g,0.1 g,11 g,11 g,1.5 g,0.5 g,0.78 g
+0000005317,Nasze Smaki Kotlet drobiowy z marchewką z groszkiem i puree ziemniaczanym 400 g,dania-gotowe,Y,w porcji 100 g,112 kcal,4.6 g,0.9 g,9.7 g,3.5 g,3.1 g,6.5 g,0.8 g
+0000008475,GustoBello Gnocchi nadziewane serem gorgonzola 400g,dania-gotowe,Y,w porcji 100 g,159 kcal,3.5 g,2.3 g,26 g,0.4 g,1.7 g,4.5 g,1.3 g
+0000008473,"Vital Fresh Lunch box, kasza bulgur, słonecznik, ser solankowy, burak 250 g",dania-gotowe,Y,w porcji 100 g,150 kcal,8 g,1.8 g,13 g,8.2 g,2 g,5.4 g,0.45 g
+0000006821,Pudliszki Flaki wołowe po zamojsku 500 g,dania-gotowe,Y,w porcji 100 g,52 kcal,1.4 g,0.6 g,2.9 g,0.9 g,0.5 g,6.9 g,1.4 g
+0000009735,Dega Sałatka pikantna z makrelą 130g,dania-gotowe,Y,w porcji 100 g,141 kcal,11 g,1.3 g,5 g,4.5 g,,4.7 g,1.5 g
+0000005314,"SmaczneGo! Sałatka bulgur z sosem pomidorowo-paprykowym, czerwoną fasolą & hummus paprykowy 220 g",dania-gotowe,Y,w porcji 100 g,190 kcal,11 g,1.1 g,15 g,3.1 g,6.7 g,4.5 g,1.1 g
+0000008973,Pudliszki Gołąbki w sosie pomidorowym 600 g,dania-gotowe,Y,w porcji 100 g,52 kcal,2 g,0.8 g,4.8 g,1.8 g,1.4 g,3 g,1 g
+0000004570,Kurki Sałatka warzywno-jajeczna z kurkami 500g Lisner,dania-gotowe,Y,w porcji 100 g,245 kcal,20 g,2 g,13 g,5.5 g,,2.4 g,1.3 g
+0000007900,"Go Vege Pasta warzywna Biała Fasola, Siemię Lniane 180 g",dania-gotowe,Y,w porcji 100 g,220 kcal,17 g,1.5 g,9.4 g,4.3 g,5.7 g,3.8 g,1.3 g
+0000002032,Donatello Czerwone papryczki Antipasti nadziewane serkiem 180 g,dania-gotowe,Y,w porcji 100 g,178 kcal,17 g,11 g,1.2 g,0.7 g,3.1 g,3.6 g,1.2 g
+0000011479,Frosta Ryba z pieca z brokułami 330 g,dania-gotowe,Y,w porcji 100 g,120 kcal,7.4 g,4.3 g,2.4 g,0.9 g,,11 g,0.72 g
+0000016211,Nasze Smaki Pierogi z truskawkami 800 g,dania-gotowe,Y,w porcji 100 g,182 kcal,1.2 g,0.3 g,37 g,8 g,3.2 g,4.3 g,0.32 g
+0000005313,"SmaczneGo! Sałatka bulgur z sosem pomidorowo-paprykowym, zielonymi oliwkami & hummus klasyczny 220 g",dania-gotowe,Y,w porcji 100 g,188 kcal,11 g,2.2 g,14 g,2.6 g,6.7 g,4.8 g,1.2 g
+0000008251,Rio Mare Insalatissime Sałatka z tuńczykiem kuskus z ciecierzycą groszkiem i pomidorkami 160 g,dania-gotowe,Y,w porcji 100 g,244 kcal,16 g,2.7 g,15 g,1 g,,9 g,1.1 g
+0000006085,Wawrzyniec Pasta warzywna z suszonymi pomidorami i żurawiną 180 g,dania-gotowe,Y,w porcji 100 g,244 kcal,20 g,1.5 g,11 g,6.5 g,4.5 g,4.1 g,1.4 g
+0000016416,GO ACTIVE Tofu z makaronem teriyaki 420 g,dania-gotowe,Y,w porcji 100 g,140 kcal,2.3 g,0.3 g,23 g,5.7 g,1 g,7.1 g,0.76 g
+0000009682,Biedronka Zupa w stylu indyjskim 450 g,dania-gotowe,Y,w porcji 100 g,37 kcal,1 g,0.5 g,2.9 g,1.8 g,,2.4 g,0.55 g
+0000008250,Rio Mare Insalatissime Sałatka z tuńczykiem meksykańska z czerwoną fasolą kukurydzą i papryką 160 g,dania-gotowe,Y,w porcji 100 g,197 kcal,13 g,1.6 g,8.3 g,1.8 g,,10 g,1.1 g
+0000004711,Biedronka Zupa barszcz ukraiński 450g,dania-gotowe,Y,w porcji 100 g,42 kcal,0.8 g,0.2 g,4.9 g,2.6 g,,2.6 g,0.52 g
+0000002048,Salato Sałatka jarzynowa 250 g,dania-gotowe,Y,w porcji 100 g,221 kcal,18.5 g,1.5 g,7.5 g,3.3 g,,2.3 g,1 g
+0000009607,"Vital Fresh Lunch box makaron, oliwki, ser Mozzarella, kurczak 255g",dania-gotowe,Y,w porcji 100 g,153 kcal,9.5 g,1.9 g,9.4 g,2 g,1.1 g,7 g,0.52 g
+0000002047,Salato Sałatka warzywna z jajkiem 250g,dania-gotowe,Y,w porcji 100 g,214 kcal,18.6 g,1.5 g,8.1 g,1.9 g,,2.5 g,1.1 g
+0000006566,"Kraina Mięs Indyk ze śliwką, 500 g",dania-gotowe,Y,w porcji 100 g,118 kcal,2.5 g,0.7 g,2.7 g,1.9 g,,20 g,1.1 g
+0000002944,Salato Sałatka z kurczakiem kebab 150g,dania-gotowe,Y,w porcji 100 g,220 kcal,17.9 g,1.5 g,8.1 g,4.6 g,,5.8 g,1.2 g
+0000006974,Biedronka Zupa jarzynowa 450g,dania-gotowe,Y,w porcji 100 g,29 kcal,0.4 g,0.1 g,4.7 g,1.6 g,,1.1 g,0.6 g
+0000002046,Salato Sałatka śledziowa z papryką 250 g,dania-gotowe,Y,w porcji 100 g,225 kcal,19.3 g,1.6 g,8.7 g,3.2 g,,2.9 g,1.3 g
+0000004816,Biedronka Zupa kapuśniak 450g,dania-gotowe,Y,w porcji 100 g,32 kcal,1.3 g,0.4 g,2.4 g,1.7 g,,2.3 g,0.7 g
+0000009572,Go Active Kurczak z ryżem w sosie meksykańskim 420g,dania-gotowe,Y,w porcji 100 g,132 kcal,2.5 g,0.3 g,19.9 g,2.8 g,1 g,6.9 g,0.6 g
+0000009737,Pudliszki Klopsiki w sosie pomidorowym 600g,dania-gotowe,Y,w porcji 100 g,127 kcal,6.9 g,1.6 g,10 g,2.9 g,0.8 g,5.4 g,1.3 g
+0000002942,Salato Sałatka ziemniaczana z boczkiem 150g,dania-gotowe,Y,w porcji 100 g,246 kcal,21.1 g,2 g,9 g,3.3 g,,4.1 g,1.1 g
+0000002943,Salato Sałatka z indykiem i brzoskwinią 150g,dania-gotowe,Y,w porcji 100 g,240 kcal,20.2 g,1.8 g,9.2 g,4.5 g,,4.7 g,1.1 g
+0000008039,Biedronka Zupa w stylu marokańskim 450 g,dania-gotowe,Y,w porcji 100 g,56 kcal,1 g,0.2 g,6.5 g,2.5 g,,3.2 g,0.68 g
+0000015096,Nasza Spiżarnia Różowa surówka słodko-kwaśna 480 g,dania-gotowe,Y,w porcji 100 g,78 kcal,2.3 g,0 g,12.5 g,12.5 g,1.7 g,1 g,1.4 g
+0000009118,Nasze Smaki Pyzy z mięsem 700 g,dania-gotowe,Y,w porcji 100 g,167 kcal,4.1 g,1.7 g,26 g,0.5 g,2.7 g,4.6 g,0.6 g
+0000004603,El Toro Rojo Panini z szynką i serem 240 g,dania-gotowe,Y,w porcji 100 g,248 kcal,8.2 g,4.3 g,29.4 g,1.7 g,1.7 g,14.2 g,1.5 g
+0000010553,Jadłowiec Danie Curry kurczak z ryżem 350 g,dania-gotowe,Y,w porcji 100 g,148 kcal,4.3 g,0.4 g,22.3 g,4 g,0.8 g,4.7 g,0.45 g
+0000010552,Jadłowiec Danie śmietanowo - grzybowy kurczak z kaszą gryczaną 350 g,dania-gotowe,Y,w porcji 100 g,148 kcal,5.4 g,0.8 g,16.6 g,2 g,4 g,6.2 g,0.44 g
+0000004108,Danie Express Mini naleśniki 300g,dania-gotowe,Y,w porcji 100 g,350 kcal,19 g,8.5 g,40 g,17 g,0.9 g,5.8 g,0.85 g
+0000007939,Nasze Smaki Sałatka warzywna z groszkiem bez konserwantów 500g,dania-gotowe,Y,w porcji 100 g,242 kcal,22.7 g,2.8 g,6.7 g,4.2 g,1.5 g,2 g,1.4 g
+0000007940,Nasze Smaki Sałatka warzywna z jajkiem bez konserwantów 500g,dania-gotowe,Y,w porcji 100 g,254 kcal,24.7 g,2.1 g,5.2 g,5.2 g,1 g,2.3 g,1.3 g
