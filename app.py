@@ -1,31 +1,42 @@
-# app.py
 import streamlit as st
-from utils import auth
+from utils.auth import github_login
+from utils.storage import upload_file
 
-# Streamlit app
-st.title("Firebase Authentication with Streamlit")
 
-# Display the GitHub login button
-sign_in_url = auth.github_auth(st.session_state)
-st.write(f"Click here to sign in with GitHub: <a href='{sign_in_url}'>Sign In</a>", unsafe_allow_html=True)
+# Tytuł aplikacji
+st.title("GitHub Authentication and File Upload")
 
-# Handle the callback
-if 'code' in st.session_state:
-    uid = auth.handle_callback(st.session_state)
-    st.write(f"Welcome, you are logged in as {uid}!")
+# Inicjalizacja stanu sesji
+if "login_status" not in st.session_state:
+    st.session_state.login_status = "not_logged_in"
 
-    # Allow user to upload a JSON file
-    uploaded_file = st.file_uploader("Choose a JSON file", type=['json'])
+# Obsługa procesu logowania przez GitHub
+if st.session_state.login_status == "not_logged_in":
+    if st.button("Login with GitHub"):
+        # Przekierowanie do logowania GitHub
+        github_login()
+        st.session_state.login_status = "redirecting"  # Ustawienie statusu przekierowania
+
+elif st.session_state.login_status == "redirecting":
+    st.write("Redirecting to GitHub...")
+
+elif st.session_state.login_status == "success":
+    # Powitanie użytkownika po udanym logowaniu
+    st.write(f"Welcome, {st.session_state.user_data['display_name']}!")
+
+    # Sekcja przesyłania pliku
+    uploaded_file = st.file_uploader("Upload a JSON file", type=["json"])
     if uploaded_file is not None:
         try:
-            # Upload the file to Firebase Storage
-            message = auth.upload_json(uid, uploaded_file)
-            st.success(message)
+            # Nazwa pliku i zasobnika
+            file_name = uploaded_file.name
+
+            # Wysłanie pliku do zasobnika
+            result = storage.upload_file(uploaded_file, file_name)
+            st.success(f"File '{file_name}' successfully uploaded.")
         except Exception as e:
             st.error(f"Error uploading file: {e}")
 
-# Display a logout button
-if 'uid' in st.session_state:
-    if st.button("Logout"):
-        del st.session_state['uid']
-        st.write("Logged out successfully.")
+# Obsługa błędów logowania
+if st.session_state.login_status.startswith("Error"):
+    st.error(f"Login failed: {st.session_state.login_status}")

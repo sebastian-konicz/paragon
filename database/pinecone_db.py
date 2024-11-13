@@ -1,7 +1,7 @@
 from pinecone import Pinecone, ServerlessSpec
 from config.config import PINECONE_API_KEY
 
-pc = Pinecone(api_key=PINECONE_API_KEY)
+pc = Pinecone(api_key=PINECONE_API_KEY, pool_threads=30)
 
 pc.create_index(
     name='datacamp-index',

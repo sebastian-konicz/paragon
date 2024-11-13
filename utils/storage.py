@@ -5,13 +5,12 @@ from firebase_admin import storage
 bucket_name = FIREBASE_STORAGE_BUCKET
 bucket = storage.bucket(bucket_name)
 
-def upload_file_to_storage(file, user_id):
-    file_path = f"{user_id}/{file.name}"
-    blob = bucket.blob(file_path)
+from google.cloud import storage
 
-    # Przesyłanie pliku do Firebase Storage
-    blob.upload_from_file(file)
-
-    # Uzyskanie publicznego URL pliku
-    file_url = blob.public_url
-    return file_url
+def upload_file(file, file_name):
+    """Uploads a file to Google Cloud Storage."""
+    storage_client = storage.Client()
+    bucket = storage_client.bucket(bucket_name)
+    blob = bucket.blob(file_name)
+    blob.upload_from_string(file.getvalue(), content_type=file.type)
+    return f"File uploaded to gs://{bucket_name}/{file_name}"
