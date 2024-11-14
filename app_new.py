@@ -32,11 +32,12 @@ bucket = storage.bucket()
 
 def upload_file_to_firebase(file, user_id):
     blob = bucket.blob(f"{user_id}/{file.name}")
+
     if blob.exists():
         st.warning(f"File {file.name} already exists and was not uploaded.")
     else:
         blob.upload_from_string(file.getvalue(), content_type="application/json")
-        st.success(f"File {file.name} uploaded successfully!")
+        st.success(f"File {file.name} uploaded successfully with metadata!")
 
 def list_user_files(user_id):
     blobs = bucket.list_blobs(prefix=f"{user_id}/")
@@ -82,9 +83,7 @@ if 'user_info' not in st.session_state:
 ## Logged in --------------------------------------------------------------------------------------
 ## -------------------------------------------------------------------------------------------------
 else:
-    # Show user information
-    st.header('User information:')
-    st.write(st.session_state.user_info)
+    st.header(f"Welcome {st.session_state.user_info['email']}!")
 
     # File upload section
     st.header('Upload JSON files:')
@@ -107,6 +106,10 @@ else:
             st.write(processed_data)
         else:
             st.warning("No files selected for processing.")
+
+    # Show user information
+    st.header('User information:')
+    st.write(st.session_state.user_info)
 
     # Sign out
     st.header('Sign out:')

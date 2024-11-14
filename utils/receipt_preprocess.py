@@ -13,10 +13,12 @@ def preprocess_receipts(files):
     all_data = []
 
     for file in files:
-        # Wczytanie pliku JSON
+        # Extract ID from file name
         if isinstance(file, str):
+            file_name = file
             data = json.loads(file)
         else:
+            file_name = file.name
             data = json.load(file)
 
         # wyciągniecie timestamp i zmiana w date object
@@ -87,5 +89,5 @@ def preprocess_receipts(files):
     return combined_df
 
 if __name__ == "__main__":
-    files = ['paragon_1.json', 'paragon_2.json']
+    files = ['paragon_2411135756125160.json', 'paragon_2.json']
     preprocess_receipts(files)
