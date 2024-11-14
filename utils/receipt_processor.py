@@ -1,6 +1,5 @@
-import json
 import pandas as pd
-from utils.ner_model import extract_products_from_text
+from diss.ner_model import extract_products_from_text
 from utils.open_food_facts import check_product_in_open_food_facts
 
 
