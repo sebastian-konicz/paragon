@@ -12,6 +12,7 @@ def process_receipt(data):
     results = []
     for item in item_list:
         product_name = item
+        print(product_name)
         extracted_products = extract_products_from_text(product_name)
         print(extracted_products)
 

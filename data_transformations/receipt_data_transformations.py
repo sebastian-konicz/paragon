@@ -98,20 +98,41 @@ def preprocess_receipt(file):
         lambda x: re.sub(r'(?<=[a-zA-ZĄĆĘŁŃÓŚŹŻąćęłńóśźż0-9])\.(?=[a-zA-ZĄĆĘŁŃÓŚŹŻąćęłńóśźż0-9])', ' ', x))
     df['product_name'] = df['product_name'].apply(lambda x: re.sub(r'\s+', ' ', x).strip())
 
-    # Funkcja do wyodrębniania wartości
+    # funkcja do wyodrębniania pojemności, jednostki miray i suchej nazwy produktu
     def extract_measurements(s):
-        match = re.search(r'(\d+(?:,\d+)?)(ml|l|kg|g| g|ML|L|KG|G|szt|SZT)', s)
+        match = re.search(r'(\d+(?:,\d+)?)\s?(ml|l|kg|g|ML|L|KG|G|szt|SZT)', s)
         if match:
             measure_value = match.group(1)
             measure = match.group(2).lower()  # Konwertuj jednostki miar na małe litery
-            return pd.Series([measure_value, measure])
-        return pd.Series([None, None])
+            # Usuń znalezioną miarę i jednostkę z nazwy
+            modified_name = re.sub(r'\b' + re.escape(match.group(0)) + r'\b', '', s).strip().lower()
+            return pd.Series([measure_value, measure, modified_name])
+        return pd.Series([None, None, s])
 
     # Zastosowanie funkcji do kolumny 'string'
-    df[['measure_value', 'measure']] = df['product_name'].apply(extract_measurements)
+    df[['measure_value', 'measure', 'product_name']] = df['product_name'].apply(extract_measurements)
 
     df['measure_value'] = df['measure_value'].apply(
         lambda x: float(str(x).replace(',', '.')) if str(x) != 'None' else x)
+
+    # ujednolicanie tekstu
+    def preprocess_text(text):
+        # Zmiana na lowercase
+        text = text.lower()
+
+        # Zamiana polskich znaków na ich odpowiedniki
+        polish_char_map = {
+            'ą': 'a', 'ć': 'c', 'ę': 'e', 'ł': 'l', 'ń': 'n', 'ó': 'o', 'ś': 's', 'ź': 'z', 'ż': 'z'
+        }
+        for polish_char, replacement in polish_char_map.items():
+            text = text.replace(polish_char, replacement)
+
+        # Usunięcie znaków specjalnych
+        text = re.sub(r'[^\w\s]', '', text)
+
+        return text
+
+    df['product_name'] = df['product_name'].apply(preprocess_text)
 
     df['total_final'] = df.apply(
         lambda x: x['discount_base'] - x['discount_value'] if x['isDiscount'] == True else x['total'], axis=1)
@@ -120,7 +141,7 @@ def preprocess_receipt(file):
     df.fillna('', inplace=True)
 
     # Wyświetlenie DataFrame
-    print(df)
+    print(df.head(20))
     df.to_excel(cwd + f'/data/final/paragon_data_full.xlsx', index=False)
 
     # end time of program + duration
