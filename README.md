@@ -38,7 +38,6 @@ This project is a web application that allows users to upload JSON files to Fire
     - Add the following environment variables to the `.env` file:
         ```env
         PINECONE_API_KEY="your_pinecone_api_key"
-        HUGGING_FACE_TOKEN="your_hugging_face_token"
         OPENAI_API_KEY="your_openai_api_key"
         FIREBASE_API_KEY="your_firebase_api_key"
         FIREBASE_AUTH_DOMAIN="your_firebase_auth_domain"
