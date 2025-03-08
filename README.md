@@ -1,4 +1,4 @@
-# Paragon [prof of concept]
+# Paragon [proof of concept]
 
 ## Overview
 This project is a web application that allows users to upload JSON files to Firebase Storage, manage their accounts, and process uploaded files. The application is built using Streamlit and Firebase.
