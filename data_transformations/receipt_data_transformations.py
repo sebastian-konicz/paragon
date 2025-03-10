@@ -134,6 +134,11 @@ def preprocess_receipt(file):
 
     df['product_name'] = df['product_name'].apply(preprocess_text)
 
+    df['measure_value'].fillna('', inplace=True)
+    df['measure'].fillna('', inplace=True)
+
+    df['product_name_amd'] = df.apply(lambda x: x['product_name'] + ' ' + str(x['measure_value'])+ ' ' + str(x['measure']), axis=1)
+
     df['total_final'] = df.apply(
         lambda x: x['discount_base'] - x['discount_value'] if x['isDiscount'] == True else x['total'], axis=1)
     df['total_pln'] = df['total_final'].apply(lambda x: x / 100)

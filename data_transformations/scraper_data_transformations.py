@@ -89,6 +89,13 @@ def data_transformation():
 
     df['item_name_amd'] = df['item_name_amd'].apply(preprocess_text)
 
+    df['measure_value'].fillna('', inplace=True)
+    df['measure'].fillna('', inplace=True)
+
+    df['item_name_amd'] = df.apply(lambda x: x['item_name_amd'] + ' ' + str(x['measure_value'])+ ' ' + str(x['measure']), axis=1)
+
+    df['item_name_amd'] = df['item_name_amd'].str.replace(r'\s+', ' ', regex=True).str.strip()
+
     df = df[['item_id', 'item_name_raw', 'item_name_amd', 'item_type',
              'measure_value', 'measure',
              'nutri_category_flag', 'nutrition_flag',
